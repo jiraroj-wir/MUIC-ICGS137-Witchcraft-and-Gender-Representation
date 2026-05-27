@@ -1,0 +1,29 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex*
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# macOS metadata
+.DS_Store
+
+# Raw/private source material
+/ICGS137_Midterm/
+/midterm/
+/prompts/
+/assignment_1.*
+
+# MkDocs build output
+/site/
+/.venv/
+
+# codex agent
+AGENTS.md

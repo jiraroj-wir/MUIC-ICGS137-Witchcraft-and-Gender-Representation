@@ -1,0 +1,38 @@
+site_name: ICGS137 Notes
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Midterm:
+      - Lecture Notes: midterm/Lecture.md
+      - Questions: midterm/Questions.md
+      - Individual Lectures:
+          - "02 - 2026-04-28":
+              - Lecture: midterm/lectures/lecture-02_2026-04-28/Lecture.md
+              - Questions: midterm/lectures/lecture-02_2026-04-28/Questions.md
+          - "03 - 2026-05-05":
+              - Lecture: midterm/lectures/lecture-03_2026-05-05/Lecture.md
+              - Questions: midterm/lectures/lecture-03_2026-05-05/Questions.md
+          - "04 - 2026-05-12":
+              - Lecture: midterm/lectures/lecture-04_2026-05-12/Lecture.md
+              - Questions: midterm/lectures/lecture-04_2026-05-12/Questions.md
+          - "05 - 2026-05-14":
+              - Lecture: midterm/lectures/lecture-05_2026-05-14/Lecture.md
+              - Questions: midterm/lectures/lecture-05_2026-05-14/Questions.md
+          - "06 - 2026-05-19":
+              - Lecture: midterm/lectures/lecture-06_2026-05-19/Lecture.md
+              - Questions: midterm/lectures/lecture-06_2026-05-19/Questions.md
+          - "07 - 2026-05-21":
+              - Lecture: midterm/lectures/lecture-07_2026-05-21/Lecture.md
+              - Questions: midterm/lectures/lecture-07_2026-05-21/Questions.md
+          - "08 - 2026-05-26":
+              - Lecture: midterm/lectures/lecture-08_2026-05-26/Lecture.md
+              - Questions: midterm/lectures/lecture-08_2026-05-26/Questions.md
