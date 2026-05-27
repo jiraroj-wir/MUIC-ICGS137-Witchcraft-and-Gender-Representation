@@ -20,31 +20,31 @@
 
 - Instead of working together under one broad feminist goal, organizations often focused on **specific issues**:
 
-  - Education.
+    - Education.
 
-  - Maternal health.
+    - Maternal health.
 
-  - Helping poor families.
+    - Helping poor families.
 
-  - Improving schools.
+    - Improving schools.
 
 - The professor emphasized that these issues were important but **not fully inclusive**:
 
-  - Campaigns for women to enter serious or professional university majors, such as engineering, medicine, and pharmacy, mainly benefited women who already had access to education.
+    - Campaigns for women to enter serious or professional university majors, such as engineering, medicine, and pharmacy, mainly benefited women who already had access to education.
 
-  - **Lower-class women** and **women of color** were often left out because some did not even have access to school.
+    - **Lower-class women** and **women of color** were often left out because some did not even have access to school.
 
-  - **Maternal health** excluded women who were not pregnant or not mothers.
+    - **Maternal health** excluded women who were not pregnant or not mothers.
 
-  - Improving schools only helped children who already had access to school.
+    - Improving schools only helped children who already had access to school.
 
 - A major weakness of earlier organizations was that they did not cooperate:
 
-  - They worked individually.
+    - They worked individually.
 
-  - They did not share knowledge, money, or human resources.
+    - They did not share knowledge, money, or human resources.
 
-  - This made them less successful and less socially impactful.
+    - This made them less successful and less socially impactful.
 
 - Modern women's organizations were contrasted as stronger because they often **share resources**, learn from one another, and work together on campaigns.
 
@@ -70,25 +70,25 @@
 
 - Meaning:
 
-  - Problems women experience in everyday life are not only personal problems.
+    - Problems women experience in everyday life are not only personal problems.
 
-  - They are connected to political and social systems, especially **patriarchy**.
+    - They are connected to political and social systems, especially **patriarchy**.
 
 - Examples:
 
-  - **Domestic violence**.
+    - **Domestic violence**.
 
-  - **Workplace discrimination**.
+    - **Workplace discrimination**.
 
-  - **Unequal labor at home**.
+    - **Unequal labor at home**.
 
 - Feminists argued that patriarchy shaped politics and social institutions, so women's everyday suffering should be treated as a public and political issue.
 
 - Posters and images were used to make the message simple and visible:
 
-  - Women looking exhausted from cooking and cleaning.
+    - Women looking exhausted from cooking and cleaning.
 
-  - Images criticizing unequal domestic labor.
+    - Images criticizing unequal domestic labor.
 
 #### A New Image of Women
 
@@ -98,23 +98,23 @@
 
 - Instead, feminists promoted ideas:
 
-  - Women should have **confidence in their bodies**.
+    - Women should have **confidence in their bodies**.
 
-  - Women should respect their **own abilities**.
+    - Women should respect their **own abilities**.
 
-  - Women can do anything they choose.
+    - Women can do anything they choose.
 
-  - Women should not be controlled by beauty standards.
+    - Women should not be controlled by beauty standards.
 
 - The professor stressed that the second wave was one of the first movements to openly challenge the **beauty standard**.
 
 - However, the lecture also presented a critical question:
 
-  - The government forced a new image on women.
+    - The government forced a new image on women.
 
-  - Feminists gave more freedom, but still implied that the old image of women was wrong and needed fixing.
+    - Feminists gave more freedom, but still implied that the old image of women was wrong and needed fixing.
 
-  - This means both sides were, in different ways, trying to reshape women.
+    - This means both sides were, in different ways, trying to reshape women.
 
 > Both sides, the government and the feminists, are trying to enforce new reality of women.
 
@@ -122,15 +122,15 @@
 
 - The video/example in the lecture showed a conservative image of the "good wife":
 
-  - Make the evening belong to the husband.
+    - Make the evening belong to the husband.
 
-  - Do not complain if he comes home late.
+    - Do not complain if he comes home late.
 
-  - Do not question his actions, judgment, or integrity.
+    - Do not question his actions, judgment, or integrity.
 
-  - Treat him as the **master of the house**.
+    - Treat him as the **master of the house**.
 
-  - Listen to him and know one's place.
+    - Listen to him and know one's place.
 
 - This example showed the kind of domestic ideology second-wave feminists were reacting against.
 
@@ -142,11 +142,11 @@
 
 - Women should make decisions about:
 
-  - Whether to get pregnant.
+    - Whether to get pregnant.
 
-  - How many children to have.
+    - How many children to have.
 
-  - How to deal with pregnancy and its consequences.
+    - How to deal with pregnancy and its consequences.
 
 - This connects directly to the study-guide topic of **reproductive rights**.
 
@@ -162,11 +162,11 @@
 
 - Examples from the lecture:
 
-  - Women breaking chains.
+    - Women breaking chains.
 
-  - Women throwing away mops, brooms, and domestic tools.
+    - Women throwing away mops, brooms, and domestic tools.
 
-  - Women escaping domestic violence and imagining happier futures.
+    - Women escaping domestic violence and imagining happier futures.
 
 - These visuals turned feminist arguments into easy public messages.
 
@@ -176,11 +176,11 @@
 
 - However, the professor emphasized that this inclusion was selective:
 
-  - Lesbians became more visible.
+    - Lesbians became more visible.
 
-  - But mainstream feminists did not fully understand lesbian issues.
+    - But mainstream feminists did not fully understand lesbian issues.
 
-  - Lower-class women and women of color were still often excluded.
+    - Lower-class women and women of color were still often excluded.
 
 ### Public vs Private Matters
 
@@ -190,21 +190,21 @@
 
 - Examples of private matters:
 
-  - Romantic feelings and relationships.
+    - Romantic feelings and relationships.
 
-  - Sexuality as personal choice.
+    - Sexuality as personal choice.
 
-  - Choosing what religion to believe in.
+    - Choosing what religion to believe in.
 
-  - Emotions.
+    - Emotions.
 
-  - Choosing whom to marry.
+    - Choosing whom to marry.
 
 - But the professor stressed that **practice or action** can become public if it harms others:
 
-  - Believing in a religion is private.
+    - Believing in a religion is private.
 
-  - Practicing a harmful religious act can become public because it affects well-being and community safety.
+    - Practicing a harmful religious act can become public because it affects well-being and community safety.
 
 - For feminists, issues such as **domestic violence** and unequal domestic work are public because they disturb women's well-being.
 
@@ -216,23 +216,23 @@
 
 - A matter is private if:
 
-  - It affects only one individual.
+    - It affects only one individual.
 
-  - It happens among members of the same family or group.
+    - It happens among members of the same family or group.
 
-  - It takes place at home or on private property.
+    - It takes place at home or on private property.
 
 - A matter is public if:
 
-  - It affects many people.
+    - It affects many people.
 
-  - It happens in a public area.
+    - It happens in a public area.
 
 - Conservatives focus strongly on **where the act takes place**:
 
-  - If a crime happens in a private area, they are more likely to classify it as private.
+    - If a crime happens in a private area, they are more likely to classify it as private.
 
-  - If it happens in public and affects many people, it becomes public.
+    - If it happens in public and affects many people, it becomes public.
 
 - The professor gave an exam cue to simplify and compare these views.
 
@@ -242,101 +242,101 @@
 
 - **Protests and demonstrations**
 
-  - Used to gain visibility.
+    - Used to gain visibility.
 
-  - Attracted press attention.
+    - Attracted press attention.
 
-  - Put pressure on government and other institutions.
+    - Put pressure on government and other institutions.
 
-  - Could make change happen faster because institutions worry about their public image.
+    - Could make change happen faster because institutions worry about their public image.
 
 - **Consciousness-raising groups**
 
-  - Small group discussions where women shared everyday problems.
+    - Small group discussions where women shared everyday problems.
 
-  - Helped women realize their problems were not individual failures.
+    - Helped women realize their problems were not individual failures.
 
-  - Reframed problems as caused by systems, not by personal weakness.
+    - Reframed problems as caused by systems, not by personal weakness.
 
 - **Books, journals, and feminist publications**
 
-  - Raised awareness.
+    - Raised awareness.
 
-  - Helped make the movement look educated, intellectual, and academic.
+    - Helped make the movement look educated, intellectual, and academic.
 
 - **Media and popular culture critique**
 
-  - Feminists criticized the images of women shown in media.
+    - Feminists criticized the images of women shown in media.
 
-  - The lecture connected this to the idea of the **male gaze**: images of women are often shaped by how men want women to look.
+    - The lecture connected this to the idea of the **male gaze**: images of women are often shaped by how men want women to look.
 
 - **Legal and policy advocacy**
 
-  - Feminists pushed for more laws protecting women.
+    - Feminists pushed for more laws protecting women.
 
-  - They also wanted legal reform to make the system more fair.
+    - They also wanted legal reform to make the system more fair.
 
-  - The professor emphasized that the second wave produced many laws and reforms compared with later waves.
+    - The professor emphasized that the second wave produced many laws and reforms compared with later waves.
 
 - **Women's organizations and advocacy groups**
 
-  - Legal organizations gave campaigns legitimacy.
+    - Legal organizations gave campaigns legitimacy.
 
-  - Being part of an official institution made it easier to approach government offices and other powerful institutions.
+    - Being part of an official institution made it easier to approach government offices and other powerful institutions.
 
 - **Academic institutions**
 
-  - Schools and universities were used to educate people about inequality and discrimination.
+    - Schools and universities were used to educate people about inequality and discrimination.
 
-  - This connects with the slide point that second-wave feminism entered universities through women's studies, feminist research, and gender studies.
+    - This connects with the slide point that second-wave feminism entered universities through women's studies, feminist research, and gender studies.
 
 ### Main Focuses of Second-Wave Feminism
 
 - **Workplace equality**
 
-  - Equal pay.
+    - Equal pay.
 
-  - Equal opportunity.
+    - Equal opportunity.
 
-  - Access to positions and promotions.
+    - Access to positions and promotions.
 
 - **Reproductive rights**
 
-  - Control over one's body.
+    - Control over one's body.
 
-  - Access to contraception and birth control.
+    - Access to contraception and birth control.
 
-  - Abortion rights.
+    - Abortion rights.
 
-  - Maternal health care.
+    - Maternal health care.
 
-  - The professor explained that contraception allows women to avoid unwanted pregnancy, work longer, and keep more opportunities.
+    - The professor explained that contraception allows women to avoid unwanted pregnancy, work longer, and keep more opportunities.
 
 - **Sexual liberation and bodily autonomy**
 
-  - Challenged social expectations that men should desire sex but women should not.
+    - Challenged social expectations that men should desire sex but women should not.
 
-  - Challenged the expectation that sexuality must always be heterosexual.
+    - Challenged the expectation that sexuality must always be heterosexual.
 
-  - Treated sexuality as a choice and a matter of autonomy.
+    - Treated sexuality as a choice and a matter of autonomy.
 
 - **Family and domestic roles**
 
-  - Challenged the conservative idea of **natural roles**.
+    - Challenged the conservative idea of **natural roles**.
 
-  - Conservatives claimed women's domestic roles were natural.
+    - Conservatives claimed women's domestic roles were natural.
 
-  - Feminists argued that calling housework a natural duty creates **free labor** for husbands and families.
+    - Feminists argued that calling housework a natural duty creates **free labor** for husbands and families.
 
 - **Violence against women**
 
-  - The slides identify violence against women as a major second-wave focus.
+    - The slides identify violence against women as a major second-wave focus.
 
-  - This connects to the lecture's discussion of domestic violence as a public and political issue.
+    - This connects to the lecture's discussion of domestic violence as a public and political issue.
 
 - **Education and representation**
 
-  - Women pushed for access to serious majors, professional education, and broader representation.
+    - Women pushed for access to serious majors, professional education, and broader representation.
 
 ### Minor Feminist Groups in the Second Wave
 
@@ -344,90 +344,90 @@
 
 - **Anarcho-feminists**
 
-  - Borrowed from **Emma Goldman**.
+    - Borrowed from **Emma Goldman**.
 
-  - Suspicious of major institutions such as the family, private property, state power, and religion.
+    - Suspicious of major institutions such as the family, private property, state power, and religion.
 
-  - Believed women could not be liberated unless they escaped from or dismantled oppressive institutions.
+    - Believed women could not be liberated unless they escaped from or dismantled oppressive institutions.
 
 - **Individualist feminists**
 
-  - The lecture/slides described them as turning to government in relation to women's problems.
+    - The lecture/slides described them as turning to government in relation to women's problems.
 
 - **Amazon feminists**
 
-  - Celebrated the mythical female heroine.
+    - Celebrated the mythical female heroine.
 
-  - Associated liberation with female strength.
+    - Associated liberation with female strength.
 
 - **Separatist feminists**
 
-  - Often included lesbian feminists.
+    - Often included lesbian feminists.
 
-  - Argued women could not be liberated without at least a period of separation from men.
+    - Argued women could not be liberated without at least a period of separation from men.
 
 ### Problems and Limitations of the Second Wave
 
 - **Limited representation**
 
-  - Many campaigns centered on white, middle-class women's issues.
+    - Many campaigns centered on white, middle-class women's issues.
 
-  - Poor women, working-class women, women of color, and women with different social locations were not fully represented.
+    - Poor women, working-class women, women of color, and women with different social locations were not fully represented.
 
 - **Divisions within the movement**
 
-  - White middle-class women worked on issues such as rights, property, and reproductive rights.
+    - White middle-class women worked on issues such as rights, property, and reproductive rights.
 
-  - Lower-class women felt their voices were not heard.
+    - Lower-class women felt their voices were not heard.
 
-  - The professor described their question as: are we not women, and are we not human?
+    - The professor described their question as: are we not women, and are we not human?
 
 - **White feminist perspective**
 
-  - Many white feminists saw **gender discrimination** as the main barrier preventing women from reaching the **American Dream**.
+    - Many white feminists saw **gender discrimination** as the main barrier preventing women from reaching the **American Dream**.
 
-  - They argued that removing discrimination would allow women to access American life: comfort, security, money, infrastructure, leisure, and high living standards.
+    - They argued that removing discrimination would allow women to access American life: comfort, security, money, infrastructure, leisure, and high living standards.
 
 - **Black feminist critique**
 
-  - Black women argued that gender alone did not explain their problems.
+    - Black women argued that gender alone did not explain their problems.
 
-  - Their experiences also involved **race**, **class**, and sometimes **political stance**.
+    - Their experiences also involved **race**, **class**, and sometimes **political stance**.
 
-  - This connects to the study-guide topic of **intersectionality**.
+    - This connects to the study-guide topic of **intersectionality**.
 
 - **Exclusion of lesbian women**
 
-  - Lesbians were active but not fully welcomed at first.
+    - Lesbians were active but not fully welcomed at first.
 
-  - Mainstream feminists later promoted lesbian visibility partly to reduce criticism.
+    - Mainstream feminists later promoted lesbian visibility partly to reduce criticism.
 
-  - The professor emphasized that visibility did not mean full understanding of lesbian issues.
+    - The professor emphasized that visibility did not mean full understanding of lesbian issues.
 
 - **Western bias**
 
-  - Western feminists often saw their movement as the smartest and most legitimate.
+    - Western feminists often saw their movement as the smartest and most legitimate.
 
-  - They distrusted techniques and perspectives used by women in other countries.
+    - They distrusted techniques and perspectives used by women in other countries.
 
-  - This connects to later topics on globalization feminism and Global South critiques.
+    - This connects to later topics on globalization feminism and Global South critiques.
 
 - **Internal debates about sexuality**
 
-  - In this lecture's framing, **liberal feminists** argued that pornography degrades women, turns women into sexual objects, makes women vulnerable, and can contribute to violence.
+    - In this lecture's framing, **liberal feminists** argued that pornography degrades women, turns women into sexual objects, makes women vulnerable, and can contribute to violence.
 
-  - **Radical feminists**, as presented in the lecture, argued that pornography can allow women freedom of expression, self-confidence, income, and control over their own bodies.
+    - **Radical feminists**, as presented in the lecture, argued that pornography can allow women freedom of expression, self-confidence, income, and control over their own bodies.
 
-  - The professor turned this into an explicit question asking which side is more reasonable.
+    - The professor turned this into an explicit question asking which side is more reasonable.
 
 - **Oversimplifying oppression**
 
-  - Some feminists overemphasized patriarchy, gender discrimination, or institutions as the single root of all problems.
+    - Some feminists overemphasized patriarchy, gender discrimination, or institutions as the single root of all problems.
 
-  - The professor criticized this as too narrow because it ignores other factors.
+    - The professor criticized this as too narrow because it ignores other factors.
 
 - **Fixed ideas of womanhood**
 
-  - Some second-wave feminists still assumed a fixed idea of what women should be.
+    - Some second-wave feminists still assumed a fixed idea of what women should be.
 
-  - This excluded women who were masculine, gender nonconforming, or otherwise did not match mainstream expectations of womanhood.
+    - This excluded women who were masculine, gender nonconforming, or otherwise did not match mainstream expectations of womanhood.

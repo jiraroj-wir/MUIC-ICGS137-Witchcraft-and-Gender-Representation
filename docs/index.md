@@ -4,9 +4,9 @@
 
 - This course focuses on:
 
-  - **The history of women's suffering**: how women suffered in the past and how gender oppression continues today.
+    - **The history of women's suffering**: how women suffered in the past and how gender oppression continues today.
 
-  - **LGBTQ+ movements and suffering**: identity, social expectations, exclusion, and everyday gender issues.
+    - **LGBTQ+ movements and suffering**: identity, social expectations, exclusion, and everyday gender issues.
 
 - The course is not meant to be heavy theory only.
 
@@ -20,23 +20,23 @@
 
 - The professor said grades depend on:
 
-  - **logic**
+    - **logic**
 
-  - **reasoning**
+    - **reasoning**
 
-  - quality of explanation
+    - quality of explanation
 
-  - useful examples
+    - useful examples
 
 - A good answer should:
 
-  - understand the major course content
+    - understand the major course content
 
-  - use the simple concepts and theories correctly
+    - use the simple concepts and theories correctly
 
-  - add your own ideas and examples
+    - add your own ideas and examples
 
-  - answer the exact question instead of writing everything you know
+    - answer the exact question instead of writing everything you know
 
 ## Midterm Format
 
@@ -48,13 +48,13 @@
 
 - Short answer can still require:
 
-  - explanation
+    - explanation
 
-  - examples
+    - examples
 
-  - opinion
+    - opinion
 
-  - comparison
+    - comparison
 
 - There is **no word limit**.
 
@@ -84,14 +84,14 @@
 
 - It covered:
 
-  - course purpose
+    - course purpose
 
-  - exam format
+    - exam format
 
-  - assignment overview
+    - assignment overview
 
-  - attendance and class rules
+    - attendance and class rules
 
-  - how the professor grades reasoning and opinion
+    - how the professor grades reasoning and opinion
 
 - It did not contain the main midterm course material, so it is summarized here rather than merged into the main lecture-note page.

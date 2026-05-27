@@ -10,21 +10,21 @@
 
 - Four useful theories for gender study:
 
-  - **Biological essentialism**
+    - **Biological essentialism**
 
-  - **Social constructionism**
+    - **Social constructionism**
 
-  - **Queer theory**
+    - **Queer theory**
 
-  - **Intersectionality**
+    - **Intersectionality**
 
 - Key figures in the development of gender theory:
 
-  - **John Money**
+    - **John Money**
 
-  - **Simone de Beauvoir**
+    - **Simone de Beauvoir**
 
-  - **Judith Butler**
+    - **Judith Butler**
 
 - Modern views of gender as **socially constructed**, **dynamic**, and **diverse**.
 
@@ -46,33 +46,33 @@
 
 - Sex focuses on three main areas:
 
-  - **Chromosomes**
+    - **Chromosomes**
 
-    - Common examples: **XX** and **XY**.
+        - Common examples: **XX** and **XY**.
 
-  - **Hormones**
+    - **Hormones**
 
-    - Examples include **progesterone** and **testosterone**.
+        - Examples include **progesterone** and **testosterone**.
 
-    - Everyone has multiple hormones, but the levels usually differ.
+        - Everyone has multiple hormones, but the levels usually differ.
 
-  - **Physical characteristics of reproductive organs**
+    - **Physical characteristics of reproductive organs**
 
-    - Examples: **uterus**, **vagina**, **penis**.
+        - Examples: **uterus**, **vagina**, **penis**.
 
-    - Sex also relates to reproductive capacity, such as pregnancy and giving birth.
+        - Sex also relates to reproductive capacity, such as pregnancy and giving birth.
 
 - Sex provides facts that can be **proven**, **tested**, or biologically observed.
 
 - The professor said sex can be changed in some ways, but its **nature** cannot be fully changed.
 
-  - A person may change the visible characteristics of reproductive organs through surgery.
+    - A person may change the visible characteristics of reproductive organs through surgery.
 
-  - A person may change hormone levels through injections.
+    - A person may change hormone levels through injections.
 
-  - But the professor stressed that these changes do not fully change the biological nature a person was born with.
+    - But the professor stressed that these changes do not fully change the biological nature a person was born with.
 
-  - Example: if hormone injections stop, the body may return toward its original hormone pattern.
+    - Example: if hormone injections stop, the body may return toward its original hormone pattern.
 
 #### Gender
 
@@ -82,17 +82,17 @@
 
 - Gender includes:
 
-  - **Gender roles**
+    - **Gender roles**
 
-  - Behaviors
+    - Behaviors
 
-  - Personality
+    - Personality
 
-  - Character
+    - Character
 
-  - Social expectations
+    - Social expectations
 
-  - Roles in family and society
+    - Roles in family and society
 
 - Gender explains how society expects people to behave as men, women, or other identities.
 
@@ -108,29 +108,29 @@
 
 - **Binary concept** means dividing gender into two fixed categories:
 
-  - **Man / woman**
+    - **Man / woman**
 
-  - **Male / female**
+    - **Male / female**
 
 - The binary concept influences:
 
-  - **Social norms**
+    - **Social norms**
 
-  - **Culture**
+    - **Culture**
 
-  - **Gender roles**
+    - **Gender roles**
 
-  - **Gender expectations**
+    - **Gender expectations**
 
 - Binary thinking tells society:
 
-  - What men should do.
+    - What men should do.
 
-  - What women should do.
+    - What women should do.
 
-  - What qualities men and women should have.
+    - What qualities men and women should have.
 
-  - What roles men and women should perform for family and society.
+    - What roles men and women should perform for family and society.
 
 #### Binary Logic and "Nature"
 
@@ -138,35 +138,35 @@
 
 - Binary logic assumes:
 
-  - Gender is something people are born with.
+    - Gender is something people are born with.
 
-  - Gender cannot or should not change.
+    - Gender cannot or should not change.
 
-  - Behaviors, roles, and identities are determined by nature.
+    - Behaviors, roles, and identities are determined by nature.
 
 - Example of binary assumptions about women:
 
-  - Women are naturally emotional and sensitive.
+    - Women are naturally emotional and sensitive.
 
-  - Therefore, women should not hold leadership roles or make major decisions.
+    - Therefore, women should not hold leadership roles or make major decisions.
 
 - Example of binary assumptions about men:
 
-  - Men are naturally strong, tough, rational, and emotionally controlled.
+    - Men are naturally strong, tough, rational, and emotionally controlled.
 
-  - Therefore, men should be leaders and decision-makers.
+    - Therefore, men should be leaders and decision-makers.
 
 - The professor stressed that this logic **limits both men and women**.
 
-  - Not all men want leadership roles.
+    - Not all men want leadership roles.
 
-  - Not all women are weak or emotional.
+    - Not all women are weak or emotional.
 
-  - Binary expectations reduce personal freedom and life opportunities.
+    - Binary expectations reduce personal freedom and life opportunities.
 
 - A student asked whether binary thinking is similar to a sexualized stereotype.
 
-  - The professor answered that it is a **conservative idea** that sees only male/female or man/woman.
+    - The professor answered that it is a **conservative idea** that sees only male/female or man/woman.
 
 ### Before 1950: Sex and Gender Used Interchangeably
 
@@ -178,9 +178,9 @@
 
 - The first groups mentioned were:
 
-  - **Psychologists**
+    - **Psychologists**
 
-  - **Social scientists**
+    - **Social scientists**
 
 ### Psychologists: Gender as Chosen and Developed
 
@@ -190,29 +190,29 @@
 
 - From this view:
 
-  - Gender is **not natural**.
+    - Gender is **not natural**.
 
-  - Gender is **made**.
+    - Gender is **made**.
 
-  - Gender is shaped through personal development and social limits.
+    - Gender is shaped through personal development and social limits.
 
 - However, psychologists also noticed that people's choices were historically limited.
 
-  - In conservative societies, people often had only two visible choices: man or woman.
+    - In conservative societies, people often had only two visible choices: man or woman.
 
-  - People usually copied the role models closest to them.
+    - People usually copied the role models closest to them.
 
-  - A daughter might copy the mother's role.
+    - A daughter might copy the mother's role.
 
-  - A son might copy the father's role.
+    - A son might copy the father's role.
 
 - The professor connected this to earlier societies where diversity was not openly accepted.
 
-  - People had fewer role models.
+    - People had fewer role models.
 
-  - People had fewer public examples of different gender identities.
+    - People had fewer public examples of different gender identities.
 
-  - People often chose from what they could see around them.
+    - People often chose from what they could see around them.
 
 ### Social Order in Earlier Societies
 
@@ -224,25 +224,25 @@
 
 - The professor's logic:
 
-  - Too many choices can slow decision-making.
+    - Too many choices can slow decision-making.
 
-  - If people spend too much time exploring identities or careers, society may lose productivity.
+    - If people spend too much time exploring identities or careers, society may lose productivity.
 
-  - Fewer choices can keep people focused on assigned duties.
+    - Fewer choices can keep people focused on assigned duties.
 
-  - This helps society develop roads, hospitals, water supply, electricity, and other basic needs.
+    - This helps society develop roads, hospitals, water supply, electricity, and other basic needs.
 
 - The professor was not saying social order is still necessary in the same way.
 
 - In modern societies:
 
-  - Basic systems are more established.
+    - Basic systems are more established.
 
-  - People have more knowledge and global awareness.
+    - People have more knowledge and global awareness.
 
-  - People demand more freedom and diversity.
+    - People demand more freedom and diversity.
 
-  - Modern development depends more on creativity, challenge, and exploration.
+    - Modern development depends more on creativity, challenge, and exploration.
 
 ### Social Scientists: Gender Roles Are Learned
 
@@ -250,11 +250,11 @@
 
 - Gender roles are learned from:
 
-  - **Parents**
+    - **Parents**
 
-  - **Social norms**
+    - **Social norms**
 
-  - **Cultural expectations**
+    - **Cultural expectations**
 
 - This is a **nurture** explanation.
 
@@ -274,35 +274,35 @@
 
 - It explains gender differences through:
 
-  - Chromosomes
+    - Chromosomes
 
-  - Hormones
+    - Hormones
 
-  - Reproductive organs
+    - Reproductive organs
 
 - Main claims:
 
-  - Men are naturally more **rational** and **assertive**.
+    - Men are naturally more **rational** and **assertive**.
 
-  - Women are naturally more **emotional** and **nurturing**.
+    - Women are naturally more **emotional** and **nurturing**.
 
-  - Nature shapes people's roles and behaviors.
+    - Nature shapes people's roles and behaviors.
 
-  - Humans do not freely choose their roles; nature assigns them.
+    - Humans do not freely choose their roles; nature assigns them.
 
 - The professor described this theory as extreme because it places **nature above human freedom and choice**.
 
 - Useful applications:
 
-  - **Medical research**
+    - **Medical research**
 
-  - Studying different biological needs and treatments for male and female bodies.
+    - Studying different biological needs and treatments for male and female bodies.
 
-  - Evolutionary explanations.
+    - Evolutionary explanations.
 
 - Limitation from the slide:
 
-  - It can **oversimplify** gender and sex differences.
+    - It can **oversimplify** gender and sex differences.
 
 ### Social Constructionism
 
@@ -312,45 +312,45 @@
 
 - Gender is shaped by:
 
-  - Family members
+    - Family members
 
-  - Social norms
+    - Social norms
 
-  - Culture
+    - Culture
 
-  - Everyday interactions
+    - Everyday interactions
 
-  - Institutions
+    - Institutions
 
-  - Expectations
+    - Expectations
 
 - Social constructionism strongly separates **sex** and **gender**.
 
-  - Sex and gender are different things.
+    - Sex and gender are different things.
 
-  - Biological essentialism tends to connect them.
+    - Biological essentialism tends to connect them.
 
-  - Social constructionism treats gender as social, not biological.
+    - Social constructionism treats gender as social, not biological.
 
 - Social constructionists ask questions such as:
 
-  - What makes men behave in certain ways?
+    - What makes men behave in certain ways?
 
-  - What shapes clothing expectations for men and women?
+    - What shapes clothing expectations for men and women?
 
-  - What choices does each gender receive?
+    - What choices does each gender receive?
 
-  - How do norms influence individual identity?
+    - How do norms influence individual identity?
 
 - This theory is useful for analyzing:
 
-  - Norms
+    - Norms
 
-  - Identity
+    - Identity
 
-  - Institutions
+    - Institutions
 
-  - Everyday behavior
+    - Everyday behavior
 
 ### Queer Theory
 
@@ -366,33 +366,33 @@
 
 - The professor distinguished **gender identity** from **sexuality**:
 
-  - Gender identity describes how a person understands themselves.
+    - Gender identity describes how a person understands themselves.
 
-  - Sexuality describes attraction, desire, and romantic or sexual feeling.
+    - Sexuality describes attraction, desire, and romantic or sexual feeling.
 
 - Example:
 
-  - A person may identify as a man, but that does not guarantee attraction to women.
+    - A person may identify as a man, but that does not guarantee attraction to women.
 
-  - A person may identify as a woman and still feel attraction to transgender or non-binary people.
+    - A person may identify as a woman and still feel attraction to transgender or non-binary people.
 
 - The professor said social scientists view sexuality as a **choice** or as based on personal feeling, not fate.
 
 - The professor contrasted this with a more biological/scientific view:
 
-  - Some scientists connect sex and gender.
+    - Some scientists connect sex and gender.
 
-  - Some scientists defend binary systems because they worry that too much sexual freedom could reduce reproduction and threaten human survival.
+    - Some scientists defend binary systems because they worry that too much sexual freedom could reduce reproduction and threaten human survival.
 
 - The slide adds that queer theory is useful for studying:
 
-  - LGBTQ+ identities
+    - LGBTQ+ identities
 
-  - Norms
+    - Norms
 
-  - Resistance
+    - Resistance
 
-  - How identities are performed and regulated
+    - How identities are performed and regulated
 
 ### Intersectionality
 
@@ -400,29 +400,29 @@
 
 - Gender should be studied together with other social issues, including:
 
-  - **Race**
+    - **Race**
 
-  - **Class**
+    - **Class**
 
-  - **Sexuality**
+    - **Sexuality**
 
-  - **Disability**
+    - **Disability**
 
-  - Other forms of discrimination
+    - Other forms of discrimination
 
 - Example from the lecture:
 
-  - An African American woman may experience discrimination as a woman and because of race.
+    - An African American woman may experience discrimination as a woman and because of race.
 
-  - If she is disabled, she may also experience discrimination based on her body.
+    - If she is disabled, she may also experience discrimination based on her body.
 
-  - If she is poor, class discrimination may also affect her.
+    - If she is poor, class discrimination may also affect her.
 
 - The main point:
 
-  - Different inequalities combine to create unique experiences.
+    - Different inequalities combine to create unique experiences.
 
-  - You cannot study gender in isolation.
+    - You cannot study gender in isolation.
 
 ### John Money and the 1950s Development of "Gender"
 
@@ -434,9 +434,9 @@
 
 - He connected gender roles with:
 
-  - **Femininity**
+    - **Femininity**
 
-  - **Masculinity**
+    - **Masculinity**
 
 - The professor said John Money was the first to point out that gender is a **social construct**.
 
@@ -448,17 +448,17 @@
 
 - The professor summarized her idea as:
 
-  - Humans are born to **become** something.
+    - Humans are born to **become** something.
 
-  - People are not simply born into a finished social role.
+    - People are not simply born into a finished social role.
 
-  - People make choices about what they become.
+    - People make choices about what they become.
 
 - The key implication:
 
-  - People should not be assigned their identity only by society, religion, or parents.
+    - People should not be assigned their identity only by society, religion, or parents.
 
-  - Gender is connected to becoming, choice, and social development.
+    - Gender is connected to becoming, choice, and social development.
 
 ### Judith Butler
 
@@ -470,41 +470,41 @@
 
 - Example from the lecture:
 
-  - A person born with female reproductive organs may prefer masculine qualities.
+    - A person born with female reproductive organs may prefer masculine qualities.
 
-  - If that person repeatedly performs masculine behavior, they may understand themselves as a man.
+    - If that person repeatedly performs masculine behavior, they may understand themselves as a man.
 
 - Main point:
 
-  - Gender is not only something a person "has."
+    - Gender is not only something a person "has."
 
-  - Gender is something a person repeatedly **does**.
+    - Gender is something a person repeatedly **does**.
 
 ### Past and Modern Views of Gender
 
 - In the past:
 
-  - People often treated sex and gender as the same.
+    - People often treated sex and gender as the same.
 
-  - Men and women were expected to follow strict roles.
+    - Men and women were expected to follow strict roles.
 
-  - Work, family life, clothing, and behavior were shaped by binary expectations.
+    - Work, family life, clothing, and behavior were shaped by binary expectations.
 
-  - These roles were often treated as natural even though they were shaped by culture.
+    - These roles were often treated as natural even though they were shaped by culture.
 
 - In the modern day:
 
-  - Gender is understood as something people can choose and develop.
+    - Gender is understood as something people can choose and develop.
 
-  - People can adopt different combinations of masculine and feminine qualities.
+    - People can adopt different combinations of masculine and feminine qualities.
 
-  - Gender is widely understood in scholarship as:
+    - Gender is widely understood in scholarship as:
 
-    - **Socially constructed**
+        - **Socially constructed**
 
-    - **Dynamic**
+        - **Dynamic**
 
-    - **Diverse**
+        - **Diverse**
 
 ### Not All Societies Follow Strict Binary Gender
 
@@ -512,17 +512,17 @@
 
 - Some societies recognize:
 
-  - More than two gender identities.
+    - More than two gender identities.
 
-  - Flexible expressions of identity.
+    - Flexible expressions of identity.
 
-  - Greater public space for non-binary and queer people.
+    - Greater public space for non-binary and queer people.
 
 - Thailand was used as an example.
 
-  - The professor connected Thailand's relative gender diversity to more flexible religion and culture.
+    - The professor connected Thailand's relative gender diversity to more flexible religion and culture.
 
-  - Buddhism and Thai culture were described as relatively lenient and adaptive compared with stricter religious or cultural systems.
+    - Buddhism and Thai culture were described as relatively lenient and adaptive compared with stricter religious or cultural systems.
 
 - The slide emphasizes that gender has always had **cultural variation**, even if Western perspectives often emphasized binary systems.
 
@@ -534,9 +534,9 @@
 
 - Students may need to explain both:
 
-  - The difference between sex and gender.
+    - The difference between sex and gender.
 
-  - Why it is important to study sex and gender.
+    - Why it is important to study sex and gender.
 
 #### 1. Understand Stereotypes
 
@@ -556,17 +556,17 @@
 
 - Without recognition:
 
-  - Misunderstanding can happen.
+    - Misunderstanding can happen.
 
-  - Conflict can happen.
+    - Conflict can happen.
 
-  - Social instability can increase.
+    - Social instability can increase.
 
 - With recognition:
 
-  - People can understand one another better.
+    - People can understand one another better.
 
-  - Society can become more harmonious and stable.
+    - Society can become more harmonious and stable.
 
 #### 3. Understand How Society Shapes Behavior
 
@@ -622,15 +622,15 @@
 
 - Examples:
 
-  - **Law**
+    - **Law**
 
-  - **Religion**
+    - **Religion**
 
-  - **Family**
+    - **Family**
 
-  - **Schools**
+    - **Schools**
 
-  - Government records and social systems
+    - Government records and social systems
 
 - In the past, laws often protected only men and women, not third-gender or non-binary people.
 
@@ -648,11 +648,11 @@
 
 - The professor mentioned labels such as:
 
-  - **Transgender**
+    - **Transgender**
 
-  - **Cisgender**
+    - **Cisgender**
 
-  - **Cishet**
+    - **Cishet**
 
 - Without labels and clear definitions, people found it difficult to identify themselves.
 
@@ -664,13 +664,13 @@
 
 - They feared:
 
-  - Exclusion
+    - Exclusion
 
-  - Loss of social belonging
+    - Loss of social belonging
 
-  - Loss of status
+    - Loss of status
 
-  - Loss of jobs or leadership positions
+    - Loss of jobs or leadership positions
 
 - In the past, some people viewed LGBTQ+ people as mentally sick.
 
@@ -686,9 +686,9 @@
 
 - The slide adds that schools, laws, and religious systems repeated the message:
 
-  - There are only two genders.
+    - There are only two genders.
 
-  - Each gender has a fixed role.
+    - Each gender has a fixed role.
 
 ### Slide and Student-Note Additions on Binary as Social Organization
 
@@ -698,29 +698,29 @@
 
 - Binary gender helped early societies organize:
 
-  - **Labor**
+    - **Labor**
 
-  - **Family roles**
+    - **Family roles**
 
-  - **Authority**
+    - **Authority**
 
 - It assigned:
 
-  - Men to leadership, labor, and protection.
+    - Men to leadership, labor, and protection.
 
-  - Women to caregiving and reproduction.
+    - Women to caregiving and reproduction.
 
 - These assignments became **gender roles**.
 
 - Student notes connect this to capitalism and patriarchy:
 
-  - Men could focus on work outside the home.
+    - Men could focus on work outside the home.
 
-  - Women handled domestic labor.
+    - Women handled domestic labor.
 
-  - Tasks became predictable and society ran smoothly.
+    - Tasks became predictable and society ran smoothly.
 
-  - But this also maintained inequality.
+    - But this also maintained inequality.
 
 #### Patriarchal Systems
 
@@ -728,19 +728,19 @@
 
 - In patriarchal systems:
 
-  - Men control political leadership and property.
+    - Men control political leadership and property.
 
-  - Women have more limited rights and responsibilities.
+    - Women have more limited rights and responsibilities.
 
 - Gender is not only identity.
 
 - Gender can also maintain:
 
-  - **Power**
+    - **Power**
 
-  - **Social order**
+    - **Social order**
 
-  - **Hierarchy**
+    - **Hierarchy**
 
 #### Maintaining Social Order
 
@@ -750,11 +750,11 @@
 
 - Binary roles create:
 
-  - Clear division of labor.
+    - Clear division of labor.
 
-  - Defined family structures.
+    - Defined family structures.
 
-  - Stable expectations.
+    - Stable expectations.
 
 - Challenging gender roles can be treated as a threat to order.
 
@@ -768,4 +768,4 @@
 
 - Example from student notes:
 
-  - A man wearing a skirt may be treated as wrong in a strict binary religious culture.
+    - A man wearing a skirt may be treated as wrong in a strict binary religious culture.

@@ -28,61 +28,61 @@
 
 - Western feminists tended to view themselves as:
 
-  - **Saviors**.
+    - **Saviors**.
 
-  - People with a **duty** to raise equality.
+    - People with a **duty** to raise equality.
 
-  - People who could help end women's suffering around the world.
+    - People who could help end women's suffering around the world.
 
 > Western feminists viewed themselves as "saviors."
 
 - Women in less developed countries often viewed Western feminists very differently:
 
-  - As **outsiders**, not sisters.
+    - As **outsiders**, not sisters.
 
-  - As people trying to **impose Western ideas**.
+    - As people trying to **impose Western ideas**.
 
-  - As people who did not understand local cultures.
+    - As people who did not understand local cultures.
 
-  - As people who did not understand the most urgent problems local women faced.
+    - As people who did not understand the most urgent problems local women faced.
 
-  - As people who could not properly represent or promote Global South women's issues.
+    - As people who could not properly represent or promote Global South women's issues.
 
 - Key criticism:
 
-  - Western women and Global South women often had **different priorities**.
+    - Western women and Global South women often had **different priorities**.
 
-  - Western feminists assumed they knew what problems mattered most.
+    - Western feminists assumed they knew what problems mattered most.
 
-  - Local women argued that Western feminists ignored economic survival, cultural context, and local needs.
+    - Local women argued that Western feminists ignored economic survival, cultural context, and local needs.
 
 ### Western Priority: Harmful Cultural Practices
 
 - Western feminists often prioritized ending practices such as:
 
-  - **Female infanticide**.
+    - **Female infanticide**.
 
-  - **Widow burning (sati)**.
+    - **Widow burning (sati)**.
 
-  - **Arranged marriage**.
+    - **Arranged marriage**.
 
-  - **Female genital cutting (FGC)**.
+    - **Female genital cutting (FGC)**.
 
 - Western feminists saw these practices as **violations of women's rights**.
 
 - Some women in less developed countries framed these practices differently:
 
-  - As part of **cultural rights**.
+    - As part of **cultural rights**.
 
-  - As cultural practices they had a right to continue.
+    - As cultural practices they had a right to continue.
 
-  - As traditions outsiders should not simply ban without understanding local society.
+    - As traditions outsiders should not simply ban without understanding local society.
 
 - This creates the major exam-relevant conflict:
 
-  - **Women's rights**: protecting women from harmful practices.
+    - **Women's rights**: protecting women from harmful practices.
 
-  - **Cultural rights**: protecting a community's ability to maintain its traditions.
+    - **Cultural rights**: protecting a community's ability to maintain its traditions.
 
 > "Which one is more important? Women's rights or cultural rights?"
 
@@ -90,23 +90,23 @@
 
 - The slide identifies the case study as the **1980 UN World Conference on Women in Copenhagen**:
 
-  - Full theme: **World Conference of the United Nations Decade for Women: Equality, Development and Peace**.
+    - Full theme: **World Conference of the United Nations Decade for Women: Equality, Development and Peace**.
 
 - After this conference, debates increased over the relationship between Western feminism and women's movements in developing countries.
 
 - Western feminists argued:
 
-  - The root of women's problems in less developed countries was **patriarchy**.
+    - The root of women's problems in less developed countries was **patriarchy**.
 
-  - To raise equality and protect women's rights, societies needed to reduce or remove patriarchal structures.
+    - To raise equality and protect women's rights, societies needed to reduce or remove patriarchal structures.
 
 - Women in less developed countries argued:
 
-  - The root of their problems was **underdevelopment**.
+    - The root of their problems was **underdevelopment**.
 
-  - Poverty, weak public services, and unstable economies made women vulnerable.
+    - Poverty, weak public services, and unstable economies made women vulnerable.
 
-  - Economic and political conditions had to be fixed before equality could become realistic.
+    - Economic and political conditions had to be fixed before equality could become realistic.
 
 - The professor emphasized that students may take either side, but they must explain why one side is more reasonable.
 
@@ -116,21 +116,21 @@
 
 - Common characteristics from the slide and lecture:
 
-  - **Low income** and poverty.
+    - **Low income** and poverty.
 
-  - **Limited industry** and weak economic growth.
+    - **Limited industry** and weak economic growth.
 
-  - **Low education** or limited access to education.
+    - **Low education** or limited access to education.
 
-  - **Limited healthcare services**.
+    - **Limited healthcare services**.
 
-  - **High population**.
+    - **High population**.
 
-  - **Gender inequality**.
+    - **Gender inequality**.
 
-  - **Political and economic instability**.
+    - **Political and economic instability**.
 
-  - Dependence on aid or support from developed countries.
+    - Dependence on aid or support from developed countries.
 
 - The professor connected these characteristics to women's limited **achievement, freedom, rights, and equality**.
 
@@ -138,39 +138,39 @@
 
 - The slide lists urgent issues:
 
-  - **Poverty**.
+    - **Poverty**.
 
-  - **Healthcare**.
+    - **Healthcare**.
 
-  - **Education**.
+    - **Education**.
 
-  - **Gender equality**.
+    - **Gender equality**.
 
-  - **Political instability**.
+    - **Political instability**.
 
-  - **Economic instability**.
+    - **Economic instability**.
 
-  - **Poor infrastructure**.
+    - **Poor infrastructure**.
 
-  - **Overcrowding**.
+    - **Overcrowding**.
 
-  - **Environmental problems**.
+    - **Environmental problems**.
 
 - Why they are urgent:
 
-  - **Poverty** limits access to food, medicine, training, and basic survival.
+    - **Poverty** limits access to food, medicine, training, and basic survival.
 
-  - **Limited healthcare** makes illness, pregnancy, and injury more dangerous.
+    - **Limited healthcare** makes illness, pregnancy, and injury more dangerous.
 
-  - **Poor infrastructure** means weaker access to water, electricity, transport, and production.
+    - **Poor infrastructure** means weaker access to water, electricity, transport, and production.
 
-  - **Overcrowding / rapid urbanization** creates pressure on housing, jobs, and resources.
+    - **Overcrowding / rapid urbanization** creates pressure on housing, jobs, and resources.
 
-  - Rural migrants may move to cities for jobs but end up unemployed, homeless, or in slums.
+    - Rural migrants may move to cities for jobs but end up unemployed, homeless, or in slums.
 
-  - Slums can increase violence, insecurity, and miserable living conditions.
+    - Slums can increase violence, insecurity, and miserable living conditions.
 
-  - **Environmental problems** threaten communities and can lead to physical and mental health problems.
+    - **Environmental problems** threaten communities and can lead to physical and mental health problems.
 
 - These issues are urgent because they are **direct threats to life**, not only abstract equality questions.
 
@@ -182,13 +182,13 @@
 
 - The professor explained:
 
-  - Some women experience urgent issues directly.
+    - Some women experience urgent issues directly.
 
-  - Some women experience them indirectly.
+    - Some women experience them indirectly.
 
-  - Women who are directly affected may strongly support legal change.
+    - Women who are directly affected may strongly support legal change.
 
-  - Women who are less directly affected may not support the same reforms.
+    - Women who are less directly affected may not support the same reforms.
 
 - This makes it harder to build broad support for laws protecting women.
 
@@ -200,49 +200,49 @@
 
 - World leaders were concerned about:
 
-  - Rising birth rates.
+    - Rising birth rates.
 
-  - **Overpopulation**.
+    - **Overpopulation**.
 
-  - Future shortage of natural resources.
+    - Future shortage of natural resources.
 
 - A major assumption at the conference was that birth rates needed to be reduced in less developed countries.
 
 - Less developed countries were blamed for:
 
-  - Global overpopulation.
+    - Global overpopulation.
 
-  - Decline of natural resources.
+    - Decline of natural resources.
 
-  - Migration pressure on developed countries.
+    - Migration pressure on developed countries.
 
 - The professor criticized this assumption because:
 
-  - Most powerful leaders were from developed countries.
+    - Most powerful leaders were from developed countries.
 
-  - Few leaders from less developed countries had enough influence.
+    - Few leaders from less developed countries had enough influence.
 
-  - Less developed countries became **voiceless** in the debate.
+    - Less developed countries became **voiceless** in the debate.
 
 - Western feminists saw the conference as an opportunity:
 
-  - Their organizations were recognized in their own countries but not always abroad.
+    - Their organizations were recognized in their own countries but not always abroad.
 
-  - Working with world leaders could open doors into less developed countries.
+    - Working with world leaders could open doors into less developed countries.
 
-  - Population control aligned partly with feminist goals of **reproductive autonomy**.
+    - Population control aligned partly with feminist goals of **reproductive autonomy**.
 
 - Western feminists did not fully agree that Global South people caused overpopulation, but they supported women's access to:
 
-  - **Contraception**.
+    - **Contraception**.
 
-  - Control over pregnancy.
+    - Control over pregnancy.
 
-  - The right to decide when to marry and how many children to have.
+    - The right to decide when to marry and how many children to have.
 
 - The reasoning:
 
-  - If women have self-autonomy and access to contraception, birth rates may decrease.
+    - If women have self-autonomy and access to contraception, birth rates may decrease.
 
 ### Western Benefits of Not Having Children
 
@@ -250,77 +250,77 @@
 
 - Benefits mentioned in the lecture:
 
-  - More free time.
+    - More free time.
 
-  - More energy.
+    - More energy.
 
-  - More opportunity to pursue goals.
+    - More opportunity to pursue goals.
 
-  - More time for training and self-improvement.
+    - More time for training and self-improvement.
 
-  - Lower expenses.
+    - Lower expenses.
 
-  - More savings.
+    - More savings.
 
-  - More financial stability.
+    - More financial stability.
 
-  - More chance to travel, explore, and gain knowledge.
+    - More chance to travel, explore, and gain knowledge.
 
-  - More independence.
+    - More independence.
 
-  - Fewer burdens and more freedom.
+    - Fewer burdens and more freedom.
 
 - The professor's point:
 
-  - This argument may sound reasonable from a Western perspective.
+    - This argument may sound reasonable from a Western perspective.
 
-  - But it often fails to match the economic and cultural reality of less developed countries.
+    - But it often fails to match the economic and cultural reality of less developed countries.
 
 ### Why Birth Rates May Be High in Less Developed Countries
 
 - Women in less developed countries may view children as:
 
-  - **Assets**.
+    - **Assets**.
 
-  - Future income.
+    - Future income.
 
-  - Family labor.
+    - Family labor.
 
-  - Support in old age.
+    - Support in old age.
 
 - In agricultural societies:
 
-  - Families need manpower for production.
+    - Families need manpower for production.
 
-  - Technology may be too expensive.
+    - Technology may be too expensive.
 
-  - Families may not have the knowledge or resources to use advanced technology.
+    - Families may not have the knowledge or resources to use advanced technology.
 
-  - More children can mean more workers.
+    - More children can mean more workers.
 
 - Children may also be sent to cities to work and send money home.
 
 - Religion and culture can support high birth rates:
 
-  - Some religious beliefs encourage having many children.
+    - Some religious beliefs encourage having many children.
 
-  - Motherhood may be seen as a moral duty.
+    - Motherhood may be seen as a moral duty.
 
-  - Giving birth may be connected to being a "good woman" or "good mother."
+    - Giving birth may be connected to being a "good woman" or "good mother."
 
 - Weak government support also matters:
 
-  - If the government does not provide reliable welfare, elderly support, healthcare, or social services, families depend on children.
+    - If the government does not provide reliable welfare, elderly support, healthcare, or social services, families depend on children.
 
-  - The professor used Thailand's small elderly allowance as an example of how difficult it can be to survive on state support alone.
+    - The professor used Thailand's small elderly allowance as an example of how difficult it can be to survive on state support alone.
 
 - Contraception may be seen as:
 
-  - Too expensive.
+    - Too expensive.
 
-  - A waste of money.
+    - A waste of money.
 
-  - Unnecessary or culturally wrong.
+    - Unnecessary or culturally wrong.
 
 - Therefore, Western messages like "do not have children" can sound unrealistic or insensitive.
 
@@ -332,19 +332,19 @@
 
 - According to the professor, Western feminists "hijacked" the conference by pushing their own priorities:
 
-  - **Reproductive rights**.
+    - **Reproductive rights**.
 
-  - **Sexual freedom**.
+    - **Sexual freedom**.
 
-  - **Discrimination based on sexual orientation**.
+    - **Discrimination based on sexual orientation**.
 
 - Women from less developed countries became angry and less trusting because:
 
-  - They felt Western feminists were not truly working for them.
+    - They felt Western feminists were not truly working for them.
 
-  - They felt Western feminists wanted to look smart, modern, or morally superior.
+    - They felt Western feminists wanted to look smart, modern, or morally superior.
 
-  - They felt Western feminists did not understand poverty, survival, government corruption, and social instability.
+    - They felt Western feminists did not understand poverty, survival, government corruption, and social instability.
 
 - The slide adds that many Global South women did support reproductive and sexual rights, but argued that **economic survival** and **global inequality** also needed more attention.
 
@@ -356,45 +356,45 @@
 
 - Under these programs, countries borrowed money from institutions such as:
 
-  - **World Bank**.
+    - **World Bank**.
 
-  - **IMF**.
+    - **IMF**.
 
 - Problems described in the lecture:
 
-  - Corrupt leaders and government officials took part of the loan money.
+    - Corrupt leaders and government officials took part of the loan money.
 
-  - Only a smaller portion was left for actual family planning programs.
+    - Only a smaller portion was left for actual family planning programs.
 
-  - Clinics required long-term funding for staff, specialists, practitioners, equipment, and supplies.
+    - Clinics required long-term funding for staff, specialists, practitioners, equipment, and supplies.
 
-  - Programs were supposed to provide free tools such as condoms and birth control pills.
+    - Programs were supposed to provide free tools such as condoms and birth control pills.
 
-  - Funding was not enough to run clinics properly.
+    - Funding was not enough to run clinics properly.
 
-  - Staff were not trained well.
+    - Staff were not trained well.
 
-  - Equipment ran out.
+    - Equipment ran out.
 
-  - Clinics were abandoned.
+    - Clinics were abandoned.
 
 - Results:
 
-  - Birth rates stayed high.
+    - Birth rates stayed high.
 
-  - Women's problems continued.
+    - Women's problems continued.
 
-  - Countries became poorer.
+    - Countries became poorer.
 
-  - Debt to the IMF and World Bank increased.
+    - Debt to the IMF and World Bank increased.
 
-  - Dependence on developed countries increased.
+    - Dependence on developed countries increased.
 
 - The professor used this to return to the exam debate:
 
-  - Are women's problems in less developed countries caused mainly by **patriarchy**?
+    - Are women's problems in less developed countries caused mainly by **patriarchy**?
 
-  - Or are they caused mainly by **underdevelopment**?
+    - Or are they caused mainly by **underdevelopment**?
 
 ### Second-Wave Achievements
 
@@ -402,39 +402,39 @@
 
 - Legal and political achievements:
 
-  - Many laws were created to protect women's rights.
+    - Many laws were created to protect women's rights.
 
-  - These laws built a foundation for later feminist movements, especially the third wave.
+    - These laws built a foundation for later feminist movements, especially the third wave.
 
 - Education and knowledge:
 
-  - **Gender studies** and **women's studies** entered universities.
+    - **Gender studies** and **women's studies** entered universities.
 
-  - Feminist articles and books raised public awareness.
+    - Feminist articles and books raised public awareness.
 
-  - Women's issues became more academic, serious, and visible.
+    - Women's issues became more academic, serious, and visible.
 
 - Health and social support:
 
-  - Clinics and support systems were created for women.
+    - Clinics and support systems were created for women.
 
-  - Victims of violence could access help.
+    - Victims of violence could access help.
 
-  - Psychological support and discussion-based support became more available.
+    - Psychological support and discussion-based support became more available.
 
-  - Shelters for women victims were established.
+    - Shelters for women victims were established.
 
 - Employment and gender roles:
 
-  - Women gained more space to show ability and skills.
+    - Women gained more space to show ability and skills.
 
-  - Women had more opportunities for professional jobs, income, and promotion.
+    - Women had more opportunities for professional jobs, income, and promotion.
 
 - Reproductive rights:
 
-  - More contraception options became available.
+    - More contraception options became available.
 
-  - Examples mentioned: birth control, emergency contraception / morning-after pill, condoms, medicine, and injections/implants.
+    - Examples mentioned: birth control, emergency contraception / morning-after pill, condoms, medicine, and injections/implants.
 
 ### End-of-Class Exam Cues
 
@@ -444,8 +444,8 @@
 
 - The professor suggested reviewing earlier lecture material, especially:
 
-  - **Public and private spheres**.
+    - **Public and private spheres**.
 
-  - Conservative and feminist ideas about public/private roles.
+    - Conservative and feminist ideas about public/private roles.
 
-  - LGBT terminology/acronyms.
+    - LGBT terminology/acronyms.

@@ -36,21 +36,21 @@
 
 - The **Declaration of Sentiments** demanded:
 
-  - **Women's right to vote**
+    - **Women's right to vote**
 
-  - **Equal access to education**
+    - **Equal access to education**
 
-  - More **employment opportunities**
+    - More **employment opportunities**
 
-  - **Property rights**
+    - **Property rights**
 
-  - Equal **legal rights**
+    - Equal **legal rights**
 
 - The professor emphasized that early women's rights demands were still broad and general:
 
-  - The movement was not yet focused on only one issue.
+    - The movement was not yet focused on only one issue.
 
-  - It included voting, education, employment, property, and legal protection.
+    - It included voting, education, employment, property, and legal protection.
 
 ### Lucretia Mott vs. Elizabeth Cady Stanton
 
@@ -58,33 +58,33 @@
 
 - Her reasoning:
 
-  - Women needed access to work and business so they could earn decent income.
+    - Women needed access to work and business so they could earn decent income.
 
-  - Economic independence would make women less dependent on men.
+    - Economic independence would make women less dependent on men.
 
-  - If women could support themselves, they would be less vulnerable to oppression and submission.
+    - If women could support themselves, they would be less vulnerable to oppression and submission.
 
-  - Equal rights in law would give women more equal participation in public life.
+    - Equal rights in law would give women more equal participation in public life.
 
 - The lecture connected Mott's view to practical equality:
 
-  - Women were not yet equal in society.
+    - Women were not yet equal in society.
 
-  - They needed access to institutions such as business and law in order to become equal.
+    - They needed access to institutions such as business and law in order to become equal.
 
 - **Elizabeth Cady Stanton** focused especially on the **right to vote**.
 
 - Her reasoning:
 
-  - Women and men were already equal as human beings.
+    - Women and men were already equal as human beings.
 
-  - Because women were equal, they should have the same political right to vote.
+    - Because women were equal, they should have the same political right to vote.
 
 - Key contrast:
 
-  - **Mott**: women need access to work, business, and law to become equal in practice.
+    - **Mott**: women need access to work, business, and law to become equal in practice.
 
-  - **Stanton**: women are already equal, so they deserve political rights, especially suffrage.
+    - **Stanton**: women are already equal, so they deserve political rights, especially suffrage.
 
 ### Sojourner Truth and Intersectionality
 
@@ -100,27 +100,27 @@
 
 - Her argument:
 
-  - She was also a woman.
+    - She was also a woman.
 
-  - Her race and former slave status changed how society treated her.
+    - Her race and former slave status changed how society treated her.
 
-  - A movement for women's equality could not ignore racism.
+    - A movement for women's equality could not ignore racism.
 
 - Main idea: **women's issues cannot be solved without considering intersectional issues**.
 
 - The lecture connected this to **intersectionality**:
 
-  - Gender inequality is connected with **race**, **class**, and other forms of oppression.
+    - Gender inequality is connected with **race**, **class**, and other forms of oppression.
 
-  - Women's movements that only speak for white, upper-class women exclude other women.
+    - Women's movements that only speak for white, upper-class women exclude other women.
 
 - The professor also mentioned a later suffrage parade:
 
-  - Sojourner Truth was invited to join a suffrage parade.
+    - Sojourner Truth was invited to join a suffrage parade.
 
-  - She refused because she believed the parade represented mainly white women's voting rights.
+    - She refused because she believed the parade represented mainly white women's voting rights.
 
-  - She wanted suffrage movements to understand the suffering and needs of **colored women** and **lower-class women**.
+    - She wanted suffrage movements to understand the suffering and needs of **colored women** and **lower-class women**.
 
 ### American Civil War and Feminist Delay
 
@@ -130,17 +130,17 @@
 
 - The professor explained the Civil War as a conflict between North and South:
 
-  - The **North** wanted to end slavery and was more industrial and capitalist.
+    - The **North** wanted to end slavery and was more industrial and capitalist.
 
-  - The North used more machinery and technology, so it depended less on slave labor.
+    - The North used more machinery and technology, so it depended less on slave labor.
 
-  - The North was also influenced by ideas that human beings are equal.
+    - The North was also influenced by ideas that human beings are equal.
 
-  - The **South** depended more on agriculture and plantations.
+    - The **South** depended more on agriculture and plantations.
 
-  - Southern planters wanted to keep slavery because enslaved labor reduced production costs.
+    - Southern planters wanted to keep slavery because enslaved labor reduced production costs.
 
-  - The South also wanted more autonomy from the central government.
+    - The South also wanted more autonomy from the central government.
 
 - The North won because it had stronger technology, industry, and military power.
 
@@ -156,11 +156,11 @@
 
 - The **Fifteenth Amendment** protected voting rights regardless of:
 
-  - **Race**
+    - **Race**
 
-  - **Color**
+    - **Color**
 
-  - Previous condition of **servitude**
+    - Previous condition of **servitude**
 
 - It helped African American men gain voting rights.
 
@@ -174,19 +174,19 @@
 
 - The NWSA was more focused than the earlier Seneca Falls movement:
 
-  - Seneca Falls discussed many women's rights issues.
+    - Seneca Falls discussed many women's rights issues.
 
-  - The NWSA focused mainly on **women's right to vote**.
+    - The NWSA focused mainly on **women's right to vote**.
 
 - Slide emphasis: the NWSA argued for women's suffrage through:
 
-  - **Natural rights**
+    - **Natural rights**
 
-  - **Justice**
+    - **Justice**
 
-  - **Equality**
+    - **Equality**
 
-  - **Universal citizenship**
+    - **Universal citizenship**
 
 ### Divisions Within the Suffrage Movement
 
@@ -194,11 +194,11 @@
 
 - Some activists wanted **all women** to have voting rights:
 
-  - Women of every class
+    - Women of every class
 
-  - Women of every race
+    - Women of every race
 
-  - Women of every color
+    - Women of every color
 
 - Other activists wanted voting rights mainly for **white, educated women**.
 
@@ -208,15 +208,15 @@
 
 - The professor presented this as one reason the NWSA's progress slowed:
 
-  - The movement was divided between inclusive and exclusionary ideas.
+    - The movement was divided between inclusive and exclusionary ideas.
 
-  - Racism and class bias weakened the organization.
+    - Racism and class bias weakened the organization.
 
 - Exam-relevant cue:
 
-  - The professor wanted students to analyze **what issues inside European or American women's organizations slowed their progress**.
+    - The professor wanted students to analyze **what issues inside European or American women's organizations slowed their progress**.
 
-  - This will later connect to comparisons with Thai women's associations.
+    - This will later connect to comparisons with Thai women's associations.
 
 ### Class Differences Among Women
 
@@ -224,53 +224,53 @@
 
 - **Working-class women** focused on survival:
 
-  - Finding food
+    - Finding food
 
-  - Earning enough money
+    - Earning enough money
 
-  - Having shelter
+    - Having shelter
 
-  - Staying safe
+    - Staying safe
 
-  - Surviving poor labor conditions
+    - Surviving poor labor conditions
 
 - **Upper-class and middle-class women** already had more access to basic needs:
 
-  - Housing
+    - Housing
 
-  - Education
+    - Education
 
-  - Financial support
+    - Financial support
 
-  - Domestic support
+    - Domestic support
 
 - Because of this, they could focus more on:
 
-  - **Property rights**
+    - **Property rights**
 
-  - **Business ownership**
+    - **Business ownership**
 
-  - **Legal exclusion**
+    - **Legal exclusion**
 
-  - **Political rights**
+    - **Political rights**
 
 - The professor's main point:
 
-  - A feminist movement must understand that women do not all experience oppression in the same way.
+    - A feminist movement must understand that women do not all experience oppression in the same way.
 
-  - Inclusive feminism must recognize the demands of women from different classes and races.
+    - Inclusive feminism must recognize the demands of women from different classes and races.
 
 - For working-class women, the urgent demands included:
 
-  - **Equal pay**
+    - **Equal pay**
 
-  - **Protection from workplace harassment**
+    - **Protection from workplace harassment**
 
-  - Protection from dangerous work
+    - Protection from dangerous work
 
-  - **Shorter working hours**
+    - **Shorter working hours**
 
-  - Safer working conditions
+    - Safer working conditions
 
 ### Women's Trade Union League
 
@@ -280,25 +280,25 @@
 
 - It brought together:
 
-  - Working women
+    - Working women
 
-  - Labor activists
+    - Labor activists
 
-  - Reformers
+    - Reformers
 
 - Its purpose was to improve working women's labor conditions.
 
 - Main demands:
 
-  - **Higher wages**
+    - **Higher wages**
 
-  - **Shorter working hours**
+    - **Shorter working hours**
 
-  - **Safer workplaces**
+    - **Safer workplaces**
 
-  - **Labor rights**
+    - **Labor rights**
 
-  - Union support for women workers
+    - Union support for women workers
 
 - The professor also mentioned support connected specifically to women's needs, such as paid leave during menstruation.
 
@@ -312,69 +312,69 @@
 
 - Gilman's main idea:
 
-  - Women's inequality comes from women's lack of **economic independence**.
+    - Women's inequality comes from women's lack of **economic independence**.
 
-  - Women are oppressed because they must depend on men for money, housing, and survival.
+    - Women are oppressed because they must depend on men for money, housing, and survival.
 
 - Gilman criticized marriage because:
 
-  - Marriage reinforces gender roles.
+    - Marriage reinforces gender roles.
 
-  - It limits women's freedom.
+    - It limits women's freedom.
 
-  - It makes women compromise with husbands and family expectations.
+    - It makes women compromise with husbands and family expectations.
 
-  - It keeps women tied to unpaid domestic duties.
+    - It keeps women tied to unpaid domestic duties.
 
 - Gilman argued that women should:
 
-  - Work **outside the home**
+    - Work **outside the home**
 
-  - Receive **paid employment**
+    - Receive **paid employment**
 
-  - Gain **education**
+    - Gain **education**
 
-  - Build professional careers
+    - Build professional careers
 
-  - Become economically independent
+    - Become economically independent
 
 - Her reasoning:
 
-  - If women earn their own money, they can take care of themselves.
+    - If women earn their own money, they can take care of themselves.
 
-  - Paid work proves women are socially capable and equal.
+    - Paid work proves women are socially capable and equal.
 
-  - Economic independence is necessary for liberation.
+    - Economic independence is necessary for liberation.
 
 - Gilman also argued that **housework and childcare keep women dependent and isolated**.
 
 - Her proposed social solutions:
 
-  - **Shared kitchens**
+    - **Shared kitchens**
 
-  - **Professional childcare**
+    - **Professional childcare**
 
-  - **Communal domestic services**
+    - **Communal domestic services**
 
 - **Communal domestic services** means the community shares domestic labor according to people's skills:
 
-  - A person good at cooking may cook for the community.
+    - A person good at cooking may cook for the community.
 
-  - A person good at cleaning may clean.
+    - A person good at cleaning may clean.
 
-  - A person good at sewing may make or repair clothes.
+    - A person good at sewing may make or repair clothes.
 
-  - Domestic responsibility becomes social and shared, not assigned only to wives and mothers.
+    - Domestic responsibility becomes social and shared, not assigned only to wives and mothers.
 
 - Key point:
 
-  - Gilman did not blame only individual men.
+    - Gilman did not blame only individual men.
 
-  - She blamed the **social system** that makes women dependent on marriage and domestic work.
+    - She blamed the **social system** that makes women dependent on marriage and domestic work.
 
 - This is why the professor described her as radical:
 
-  - She wanted to reorganize the social system, not only reform one law.
+    - She wanted to reorganize the social system, not only reform one law.
 
 - Slide reference: Gilman's famous work **Women and Economics (1898)** argued that women's liberation required **economic freedom**.
 
@@ -386,9 +386,9 @@
 
 - Goldman's main idea:
 
-  - Voting rights alone cannot liberate women.
+    - Voting rights alone cannot liberate women.
 
-  - Women can gain the vote and still remain controlled by family, religion, marriage, and social norms.
+    - Women can gain the vote and still remain controlled by family, religion, marriage, and social norms.
 
 - The professor asked whether students agree that gaining the right to vote can liberate women.
 
@@ -396,61 +396,61 @@
 
 - She argued women should stop being servants to:
 
-  - The **family**
+    - The **family**
 
-  - The **husband**
+    - The **husband**
 
-  - The **children**
+    - The **children**
 
-  - **Society**
+    - **Society**
 
-  - **Religion**
+    - **Religion**
 
 - Goldman criticized religion because it could control women's bodies and choices:
 
-  - Religion might tell women how many children to have.
+    - Religion might tell women how many children to have.
 
-  - Religion might restrict abortion or birth control.
+    - Religion might restrict abortion or birth control.
 
-  - Goldman argued women should control their own destiny.
+    - Goldman argued women should control their own destiny.
 
 - Goldman strongly criticized **marriage**.
 
 - Her critique of marriage:
 
-  - Marriage is a burden to women's success.
+    - Marriage is a burden to women's success.
 
-  - Marriage turns women into **free labor** for husbands and children.
+    - Marriage turns women into **free labor** for husbands and children.
 
-  - Marriage can make women sexual objects for husbands.
+    - Marriage can make women sexual objects for husbands.
 
-  - Marriage can reduce women's control over their bodies.
+    - Marriage can reduce women's control over their bodies.
 
-  - Marriage can make women appear like property of the husband or his family.
+    - Marriage can make women appear like property of the husband or his family.
 
-  - Domestic violence continues as long as marriage is treated as an institution of male ownership and control.
+    - Domestic violence continues as long as marriage is treated as an institution of male ownership and control.
 
 - Goldman supported:
 
-  - **Sexual freedom**
+    - **Sexual freedom**
 
-  - The right to choose one's partner
+    - The right to choose one's partner
 
-  - The right to say no to sex
+    - The right to say no to sex
 
-  - **Birth control**
+    - **Birth control**
 
-  - Control over pregnancy
+    - Control over pregnancy
 
-  - Personal independence
+    - Personal independence
 
 - Her solution:
 
-  - Women must **challenge authority**.
+    - Women must **challenge authority**.
 
-  - Women must question power structures in society.
+    - Women must question power structures in society.
 
-  - Questioning authority creates change.
+    - Questioning authority creates change.
 
 ### Gilman vs. Goldman
 
@@ -460,24 +460,24 @@
 
 - Key comparison:
 
-  - **Gilman** focused on **economic independence** and reorganizing domestic labor through community support.
+    - **Gilman** focused on **economic independence** and reorganizing domestic labor through community support.
 
-  - **Goldman** focused on **personal freedom**, sexual freedom, birth control, and challenging authority.
+    - **Goldman** focused on **personal freedom**, sexual freedom, birth control, and challenging authority.
 
 - Gilman's solution:
 
-  - Change the social system so domestic work and childcare are shared.
+    - Change the social system so domestic work and childcare are shared.
 
-  - Give women paid work and economic independence.
+    - Give women paid work and economic independence.
 
 - Goldman's solution:
 
-  - Reject obedience to family, religion, marriage, and state authority.
+    - Reject obedience to family, religion, marriage, and state authority.
 
-  - Women must liberate themselves by questioning and challenging power.
+    - Women must liberate themselves by questioning and challenging power.
 
 - Main difference:
 
-  - **Gilman** wanted a reorganized community system.
+    - **Gilman** wanted a reorganized community system.
 
-  - **Goldman** wanted women to challenge all controlling authorities directly.
+    - **Goldman** wanted women to challenge all controlling authorities directly.
