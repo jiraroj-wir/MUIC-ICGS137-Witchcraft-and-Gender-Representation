@@ -1,119 +1,79 @@
 # Questions - Lecture 09, 2026-06-11
 
-## King Rama V And The Modern Thai Woman
+## Confirmed Essay Choices
 
-- Possible essay focus: criticize whether King Rama V's proposed qualities for modern Thai women were reasonable, practical, or contradictory.
+### Domestic Violence Victim Protection Act
 
-- Include:
+- **Question / topic:** Explain the **Domestic Violence Victim Protection Act**, why it gives protection rather than prevention, and what would be needed to prevent domestic violence.
 
-    - Modernization required women to become useful citizens through labor, literacy, education, and public participation.
-
-    - Women were encouraged to become modern while still preserving traditional Thai qualities.
-
-    - The demand for **good reputation and honor** can pressure women to hide mistakes and appear proper at all times.
-
-    - The demand to manage the household and cook well limits women's time for education, work, happiness, and self-development.
-
-    - The phrase **good taste** is vague because people judge clothing and manners differently.
-
-    - The idea of **moderate knowledge** conflicts with the call for women's education.
-
-    - Self-development is limited if women have few jobs or public spaces where they can use their skills.
-
-    - Seeking knowledge about current situations is limited if women cannot speak publicly, criticize authority, or participate in politics.
-
-    - Access to education was shaped by class because upper-class women had more access than lower-class women.
-
-## Thailand, The UN, And CEDAW
-
-- Possible essay focus: criticize whether Thailand was sincere when it joined the UN and ratified CEDAW.
-
-- Include:
-
-    - Thailand joined the UN partly to gain recognition in the global community.
-
-    - UN membership supported peace, security, alliances, economic development, social development, and international policymaking.
-
-    - UN agencies could help Thailand with health, education, agriculture, human rights, and development projects.
-
-    - Thailand could turn some domestic problems into international concerns and gain wider support.
-
-    - Thailand ratified **CEDAW** in **1985**.
-
-    - CEDAW helped Thailand show commitment to human rights and gender equality.
-
-    - CEDAW also helped Thailand attract foreign investors, improve its international reputation, create jobs, gain taxes, and build trust with institutions such as the World Bank and IMF.
-
-    - A strong answer should evaluate both motives: sincere support for equality and practical national benefit.
-
-## Domestic Violence Victim Protection Act
-
-- Possible essay focus: explain the Domestic Violence Victim Protection Act, why it gives protection rather than prevention, and what would be required to prevent violence.
+- **Explicit signal:** described as **"part of your essay choice"** and followed by **"I will ask you"** why protection is possible but prevention is difficult.
 
 - Include:
 
     - The Act was created in **2007**.
 
-    - The key point is **protection**, meaning victims are protected after violence has already happened.
+    - It protects victims after violence has already happened.
 
-    - The Act protects victims from **mental**, **physical**, and **sexual** harm.
+    - It covers **mental**, **physical**, and **sexual** harm.
 
-    - Mental harm includes verbal abuse, harassment, bullying, and psychological injury.
+    - Prevention is difficult because domestic violence is often treated as a family matter.
 
-    - Physical harm includes bodily violence such as punching or injury.
+    - Prevention would challenge the patriarchal family structure, especially the father's authority.
 
-    - Sexual harm is treated separately because it involves different forms of violation and recovery.
+    - Prevention may require gender-equality awareness, public campaigns, women's empowerment, early warning skills, police training, and better ability to identify risky situations before violence happens.
 
-    - Prevention is difficult because Thai society often treats violence inside the family as a private family matter.
+### Thai Feminists And Western Feminists
 
-    - Strong prevention would challenge patriarchal family authority, especially the father's position as head of the family.
+- **Question / topic:** Compare and contrast **Thai feminists** and **Western feminists**, especially liberal, radical, and conservative approaches.
 
-    - Prevention would require gender-equality education, public awareness campaigns, women's empowerment, economic independence, police training, early warning recognition, better reporting systems, and cultural change.
-
-## Thai Feminists And Western Feminists
-
-- Possible essay focus: compare and contrast Thai feminists and Western feminists, especially liberal, radical, and conservative or cultural feminism.
+- **Explicit signal:** introduced as **"another essay question"** and phrased as **"I will ask you to compare and contrast Thai feminists to Western feminists."**
 
 - Include:
 
-    - Thai liberal feminists focus on legal reform, policy reform, institutional change, education, employment, and international engagement.
+    - Compare their approaches and beliefs.
 
-    - Thai liberal feminism is similar to Western liberal feminism because both seek equality through law and reform.
+    - Focus on **liberal**, **radical**, and **conservative** feminists.
 
-    - Thai liberal feminists supported CEDAW-related work, gender-equality policy, shadow reports, and women's access to public power.
+    - Thai liberal feminists resemble Western liberal feminists through legal reform, policy reform, institutional change, and CEDAW-related work.
 
-    - Thai radical feminists focus on making hidden problems visible, including domestic violence, sexual harassment, rape, marital rape, consent, reproductive rights, and victim blaming.
+    - Thai radical feminists are described as less extreme than Western radical feminists.
 
-    - Thai radical feminism is less confrontational than Western radical feminism because it often works around patriarchy instead of directly destroying patriarchal institutions.
+    - Thai radical feminists often make invisible problems visible, but are less direct in attacking patriarchal institutions.
 
-    - Western radical feminism is presented as more active in attacking patriarchal structures and demanding justice against perpetrators.
+    - Western radical feminists are described as more active in going after patriarchy, perpetrators, and institutions.
 
-    - Conservative or cultural feminism supports women's advancement within tradition, family stability, moral authority, and institutional continuity.
+## Confirmed Required Essay Parts
 
-    - A strong answer can use Thai print media, women's organizations, student movements, labor movements, and cooperative networks to show how feminist work developed through both public debate and practical organizing.
+### King Rama V And The Modern Thai Woman
 
-    - Examples include women's rights discussion in magazines, women workers' campaigns for maternity leave, and constitutional advocacy for protection from violence and unfair treatment.
+- **Required part:** Criticize whether **King Rama V's proposed qualities for modern Thai women** were reasonable, practical, or contradictory.
 
-    - A strong comparison should discuss each approach's strengths and limits, not only define the terms.
-
-## Cultural Components And Inequality
-
-- Possible essay focus: explain how cultural components reinforce or transform gender inequality.
-
-- Use this lecture to support:
-
-    - **Artifacts**: clothing, songs, literature, media images, state images of the "modern woman" and "flowers of the nation."
-
-    - **Sociofacts**: family structure, education, law, state institutions, UN/CEDAW commitments, and domestic violence policy.
-
-    - **Mentifacts**: beliefs about reputation, obedience, domestic duty, patriarchy, good manners, proper femininity, and family privacy.
+- **Explicit signal:** described as **"content that you have to cover in your essay"** and as a part asking students to **criticize if what the King proposed is reasonable**.
 
 - Include:
 
-    - Changing mentifacts requires education and public awareness.
+    - Evaluate whether the proposal was reasonable, contradictory, or impractical.
 
-    - Changing sociofacts requires law, policy, institutional reform, and better enforcement.
+    - Discuss the tension between modernization and preserving Thai tradition.
 
-    - Changing artifacts requires new representations of women in media, clothing, music, literature, and public culture.
+    - Critique the demand for **good reputation and honor**.
 
-    - Gender equality requires all three levels to change together.
+    - Critique household management, cooking, dress with good taste, education, moderate knowledge, self-development, current-situation knowledge, and responsibility where relevant.
+
+    - Consider class limits on education, especially lower-class women's limited time and access.
+
+### Thailand, The UN, And CEDAW
+
+- **Required part:** Criticize whether Thailand was sincere when it joined the **UN** and ratified **CEDAW**.
+
+- **Explicit signal:** stated as **"there will be one part"** of the essay asking students to criticize Thailand's sincerity in joining the UN and CEDAW.
+
+- Include:
+
+    - Thailand joined the UN for global recognition.
+
+    - UN membership helped Thailand gain allies, peace/security support, development projects, and a voice in international policy.
+
+    - CEDAW recognized women's equality and helped Thailand show support for human rights.
+
+    - Ratifying CEDAW also served practical national interests, including reputation, foreign investment, jobs, tax income, and trust from institutions such as the World Bank and IMF.

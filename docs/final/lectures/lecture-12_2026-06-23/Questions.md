@@ -1,137 +1,53 @@
 # Questions - Lecture 12, 2026-06-23
 
-## Systems And Theories
+## Confirmed Essay Choices
 
-- Possible essay focus: compare **patriarchal society** and **matriarchal society**.
+### Patriarchy, Matriarchy, And Development
 
-- Include:
+- **Question / topic:** Explain the characteristics of **patriarchy** and **matriarchy**, compare their strengths and weaknesses, and analyze whether each system can help a country become developed.
 
-    - The characteristics of a patriarchal society.
-
-    - The characteristics of a matriarchal society.
-
-    - The strengths and weaknesses of patriarchy.
-
-    - The strengths and weaknesses of matriarchy.
-
-    - What features of patriarchy may help a country become developed.
-
-    - What features of matriarchy may also help a country become developed.
-
-    - A definition of a developed country that goes beyond wealth or industrialization.
-
-- A strong answer should explain patriarchy through:
-
-    - Male dominance.
-
-    - Political leadership.
-
-    - Moral authority.
-
-    - Social privilege.
-
-    - Control of property.
-
-    - Gender roles.
-
-    - Violence and objectification.
-
-- A strong answer should explain matriarchy through:
-
-    - Mother-centered society.
-
-    - Maternal values.
-
-    - Equality.
-
-    - Consensus finding.
-
-    - Gift giving.
-
-    - Peace-building.
-
-    - Women as keepers of land and distributors of food.
-
-- Use the case studies to support comparison:
-
-    - India as a patriarchal country where women suffer from marriage pressure, dowry, violence, and discrimination.
-
-    - Peru as a patriarchal country where women's dependence and abuse show male dominance.
-
-    - The United States as a patriarchal country because men dominate political representation.
-
-    - Mosuo women in China as an example of a matriarchal community.
-
-    - The matriarchal community in India as an example of women's property rights, divorce rights, education, and household authority.
-
-    - **Minangkabau** in Indonesia as an example of land and inheritance passing through daughters while men may still hold religious and political roles.
-
-    - **Hopi** communities as examples of women-centered clan, household, and moral authority alongside some male ceremonial or political authority.
-
-    - **Bribri** communities as examples of land passing through mothers and women holding sacred ritual responsibility.
-
-    - A strong answer should avoid treating all matriarchal societies as identical; explain which forms of power are female-centered in each case.
-
-## Cultural Components And Inequality
-
-- Possible essay focus: explain how culture turns gender inequality into everyday social practice.
+- **Explicit signal:** introduced as an essay, phrased as **"I will ask you"**, and later confirmed with **"the whole essay is one of your choices."**
 
 - Include:
 
-    - How patriarchal beliefs become norms.
+    - Explain the general characteristics of patriarchy and matriarchy.
 
-    - How norms can become laws or accepted institutions.
+    - Address the strengths and weaknesses of both systems.
 
-    - How gender roles help society organize work, but also oppress women.
+    - Define or clarify what counts as a developed country before applying the systems.
 
-    - How property control can make women and children easier to treat as men's property.
+    - Analyze what in patriarchy may help a country become developed.
 
-    - How beauty standards, shaming language, stereotypes, and male-dominated industries reinforce inequality.
+    - Analyze whether anything in matriarchy can also help a country become developed.
 
-- A strong answer should analyze both sides of gender roles:
+    - Consider whether women having multiple husbands disturbs universal family values, because this was signaled as something to insert into one essay.
 
-    - Benefits: order, routine, task completion, social direction, and less confusion over responsibilities.
+## Confirmed Required Essay Parts
 
-    - Harms: oppression, fixed expectations, unequal labor, limited freedom, and justification for male control.
+### Benefits And Problems Of Gender Roles
 
-## Gender-Based Violence
+- **Required part:** Analyze the benefits, advantages, and disadvantages of **gender roles**.
 
-- Possible essay focus: explain strategies for ending **gender-based violence** and the burdens that make it difficult to end.
-
-- Include:
-
-    - Cultural beliefs that normalize male control.
-
-    - Laws or institutions that fail to protect women.
-
-    - Social systems that treat violence as a private family issue.
-
-    - Economic dependence that traps women in unsafe relationships.
-
-    - Education and gender studies as possible prevention strategies.
-
-    - Legal reform and stronger enforcement.
-
-    - Women's right to divorce and leave unsafe relationships.
-
-    - Public awareness, workshops, and institutional reform.
-
-- A strong answer should connect the strategy to the cause.
-
-- Do not only list solutions; explain why each solution would reduce violence.
-
-## Matriarchy And Family Values
-
-- Possible essay focus: evaluate whether some matriarchal practices challenge common family values.
+- **Explicit signal:** stated as **"in your essay"** and connected to analyzing the benefits, advantages, and disadvantages of gender roles.
 
 - Include:
 
-    - Women's right to have multiple husbands in the Indian matriarchal example.
+    - Gender roles are oppressive, especially to women.
 
-    - Whether multiple husbands create problems for paternity or family structure.
+    - The answer should still find possible benefits or functions of gender roles.
 
-    - Whether this practice conflicts with widely accepted family values.
+    - Gender roles can create routine, reduce conflict, assign tasks, and help society move forward.
 
-    - How women's right to divorce can reduce domestic violence.
+### Strategies To End Gender-Based Violence
 
-    - How men living with the wife's family or staying with their own mothers can reduce opportunities for domestic violence.
+- **Required part:** Propose strategies to end **gender-based violence** and identify the barriers that make it difficult to end.
+
+- **Explicit signal:** stated as **"one part in your essay"** and connected to thinking of strategies to end gender-based violence.
+
+- Include:
+
+    - Identify what blocks society from ending gender-based violence.
+
+    - Consider whether the barrier is culture, people, law, system, or another factor.
+
+    - Propose strategies, such as education, education reform, more gender studies, equality content, workshops, or other opinion-based strategies.
