@@ -4,7 +4,7 @@
 
 - Possible essay focus: Explain how witchcraft began as practical healing, protection, luck, and spiritual support, then became defined as evil.
 
-- The essay should include:
+- Include:
 
     - Witchcraft helped people solve daily problems, cure symptoms, seek luck, protect themselves from spirits, and gain emotional relief.
 
@@ -20,7 +20,7 @@
 
 - Possible essay focus: Explain witch hunts as systems of fear, coercion, legal injustice, and social control.
 
-- The essay should include:
+- Include:
 
     - The process moved from accusation to examination, then confession or denial, then punishment.
 
@@ -40,7 +40,7 @@
 
 - Possible essay focus: Explain why witchcraft accusation was gendered but also shaped by age, class, marital status, reputation, and social protection.
 
-- The essay should include:
+- Include:
 
     - Women were targeted because women were seen as suspicious, morally weak, or dangerous when they had knowledge or independence.
 
@@ -56,7 +56,7 @@
 
 - Possible essay focus: Use the general witch-trial process to prepare for Salem as a case study of religion, fear, gender-based violence, and community control.
 
-- The essay should include:
+- Include:
 
     - Accusations could begin from fear, rumors, conflict, jealousy, or community tension.
 

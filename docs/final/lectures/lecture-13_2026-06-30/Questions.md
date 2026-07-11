@@ -4,7 +4,7 @@
 
 - Possible essay focus: explain how witchcraft changed from folk practice, healing, spirituality, and nature-based ritual into an evil or dangerous category.
 
-- The essay should include:
+- Include:
 
     - Witchcraft as an **earth-based religion** connected to nature, spirits, deities, ancestors, natural elements, moon cycles, and seasonal change.
 
@@ -36,7 +36,7 @@
 
 - Possible essay focus: explain witch hunts as systems of fear, social control, accusation, and conformity.
 
-- The essay should include:
+- Include:
 
     - Witch hunts did not target people randomly.
 
@@ -66,7 +66,7 @@
 
 - Possible essay focus: analyze witchcraft accusations as overlapping systems of discrimination.
 
-- The essay should include:
+- Include:
 
     - **Intersectionality** means overlapping identities affect how people experience discrimination.
 
@@ -104,7 +104,7 @@
 
 - Possible essay focus: compare how witchcraft can be feared, respected, or used depending on cultural and religious context.
 
-- The essay should include:
+- Include:
 
     - European Christian demonization linked witchcraft to Satan, evil, heresy, and danger.
 
@@ -120,7 +120,7 @@
 
 - Possible essay focus: analyze a case where a person is labeled a witch because of social difference.
 
-- The essay should include:
+- Include:
 
     - What identities make the person vulnerable.
 

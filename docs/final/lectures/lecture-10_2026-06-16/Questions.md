@@ -4,7 +4,7 @@
 
 - Possible essay focus: Compare **conservative**, **liberal**, and **radical** perspectives on culture.
 
-- The essay should include:
+- Include:
 
     - What conservatives think culture does for people.
 
@@ -54,7 +54,7 @@
 
 - Possible essay focus: Compare types of feminism in Thailand and explain how each type tries to improve women's lives.
 
-- The essay should include:
+- Include:
 
     - **Conservative / cultural feminism**: protects women's dignity and public respectability while keeping women within Thai tradition.
 
@@ -80,7 +80,7 @@
 
 - Possible essay focus: explain how Thai gender identity and sexuality categories show the difference between visibility, tolerance, rights, and equality.
 
-- The essay should include:
+- Include:
 
     - Thai categories as practical and social, often based on how people look, act, and are read by society.
 
@@ -102,7 +102,7 @@
 
 - Possible essay focus: compare **third-wave** and **fourth-wave** feminism.
 
-- The essay should include:
+- Include:
 
     - **Third wave**: diversity, identity, race, class, sexuality, individuality, and challenging stereotypes.
 
@@ -120,7 +120,7 @@
 
 - Possible essay focus: define democracy, then evaluate whether the fourth-wave feminist movement is democratic.
 
-- The essay should include:
+- Include:
 
     - A democratic movement should support **participation**, **equality**, **accessibility**, and **representation**.
 

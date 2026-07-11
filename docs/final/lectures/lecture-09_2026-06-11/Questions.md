@@ -4,7 +4,7 @@
 
 - Possible essay focus: criticize whether King Rama V's proposed qualities for modern Thai women were reasonable, practical, or contradictory.
 
-- The essay should include:
+- Include:
 
     - Modernization required women to become useful citizens through labor, literacy, education, and public participation.
 
@@ -28,7 +28,7 @@
 
 - Possible essay focus: criticize whether Thailand was sincere when it joined the UN and ratified CEDAW.
 
-- The essay should include:
+- Include:
 
     - Thailand joined the UN partly to gain recognition in the global community.
 
@@ -50,7 +50,7 @@
 
 - Possible essay focus: explain the Domestic Violence Victim Protection Act, why it gives protection rather than prevention, and what would be required to prevent violence.
 
-- The essay should include:
+- Include:
 
     - The Act was created in **2007**.
 
@@ -74,7 +74,7 @@
 
 - Possible essay focus: compare and contrast Thai feminists and Western feminists, especially liberal, radical, and conservative or cultural feminism.
 
-- The essay should include:
+- Include:
 
     - Thai liberal feminists focus on legal reform, policy reform, institutional change, education, employment, and international engagement.
 
@@ -108,7 +108,7 @@
 
     - **Mentifacts**: beliefs about reputation, obedience, domestic duty, patriarchy, good manners, proper femininity, and family privacy.
 
-- The essay should include:
+- Include:
 
     - Changing mentifacts requires education and public awareness.
 

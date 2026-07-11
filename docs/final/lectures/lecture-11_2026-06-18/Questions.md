@@ -4,7 +4,7 @@
 
 - Possible essay focus: How do **artifacts**, **sociofacts**, and **mentifacts** reinforce gender roles and gender inequality?
 
-- The essay should include:
+- Include:
 
     - **Artifacts** as visible cultural forms such as media, clothing, symbols, food, language, festivals, rituals, stories, buildings, and public representation.
 
@@ -40,7 +40,7 @@
 
 - Possible essay focus: How can culture be transformed?
 
-- The essay should include:
+- Include:
 
     - **Changing beliefs** through education, evidence, and repeated public discussion.
 
@@ -54,7 +54,7 @@
 
 - Possible essay focus: How can cultural rights conflict with basic rights or human rights?
 
-- The essay should include:
+- Include:
 
     - The state-centered view that people should have equal access to culture and should be able to enjoy cultural participation.
 
@@ -72,7 +72,7 @@
 
 - Possible essay focus: How do theories of culture explain cultural development, and how do they affect gender issues?
 
-- The essay should include:
+- Include:
 
     - **Environmental determinism** as the view that nature shapes human behavior and culture.
 

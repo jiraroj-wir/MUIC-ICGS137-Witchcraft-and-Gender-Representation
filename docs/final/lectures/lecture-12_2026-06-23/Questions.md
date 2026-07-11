@@ -4,7 +4,7 @@
 
 - Possible essay focus: compare **patriarchal society** and **matriarchal society**.
 
-- The essay should include:
+- Include:
 
     - The characteristics of a patriarchal society.
 
@@ -76,7 +76,7 @@
 
 - Possible essay focus: explain how culture turns gender inequality into everyday social practice.
 
-- The essay should include:
+- Include:
 
     - How patriarchal beliefs become norms.
 
@@ -98,7 +98,7 @@
 
 - Possible essay focus: explain strategies for ending **gender-based violence** and the burdens that make it difficult to end.
 
-- The essay should include:
+- Include:
 
     - Cultural beliefs that normalize male control.
 
@@ -124,7 +124,7 @@
 
 - Possible essay focus: evaluate whether some matriarchal practices challenge common family values.
 
-- The essay should include:
+- Include:
 
     - Women's right to have multiple husbands in the Indian matriarchal example.
 

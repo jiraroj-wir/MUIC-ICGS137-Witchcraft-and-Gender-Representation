@@ -8,7 +8,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: criticize whether King Rama V's proposed qualities for modern Thai women were reasonable, practical, or contradictory.
 
-- The essay should include:
+- Include:
 
     - Modernization required women to become useful citizens through labor, literacy, education, and public participation.
 
@@ -32,7 +32,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: criticize whether Thailand was sincere when it joined the UN and ratified CEDAW.
 
-- The essay should include:
+- Include:
 
     - Thailand joined the UN partly to gain recognition in the global community.
 
@@ -54,7 +54,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: explain the Domestic Violence Victim Protection Act, why it gives protection rather than prevention, and what would be required to prevent violence.
 
-- The essay should include:
+- Include:
 
     - The Act was created in **2007**.
 
@@ -78,7 +78,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: compare and contrast Thai feminists and Western feminists, especially liberal, radical, and conservative or cultural feminism.
 
-- The essay should include:
+- Include:
 
     - Thai liberal feminists focus on legal reform, policy reform, institutional change, education, employment, and international engagement.
 
@@ -112,7 +112,7 @@ These are final essay topics and answer requirements supported by the final lect
 
     - **Mentifacts**: beliefs about reputation, obedience, domestic duty, patriarchy, good manners, proper femininity, and family privacy.
 
-- The essay should include:
+- Include:
 
     - Changing mentifacts requires education and public awareness.
 
@@ -128,7 +128,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: Compare **conservative**, **liberal**, and **radical** perspectives on culture.
 
-- The essay should include:
+- Include:
 
     - What conservatives think culture does for people.
 
@@ -178,7 +178,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: Compare types of feminism in Thailand and explain how each type tries to improve women's lives.
 
-- The essay should include:
+- Include:
 
     - **Conservative / cultural feminism**: protects women's dignity and public respectability while keeping women within Thai tradition.
 
@@ -204,7 +204,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: explain how Thai gender identity and sexuality categories show the difference between visibility, tolerance, rights, and equality.
 
-- The essay should include:
+- Include:
 
     - Thai categories as practical and social, often based on how people look, act, and are read by society.
 
@@ -226,7 +226,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: compare **third-wave** and **fourth-wave** feminism.
 
-- The essay should include:
+- Include:
 
     - **Third wave**: diversity, identity, race, class, sexuality, individuality, and challenging stereotypes.
 
@@ -244,7 +244,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: define democracy, then evaluate whether the fourth-wave feminist movement is democratic.
 
-- The essay should include:
+- Include:
 
     - A democratic movement should support **participation**, **equality**, **accessibility**, and **representation**.
 
@@ -276,7 +276,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: How do **artifacts**, **sociofacts**, and **mentifacts** reinforce gender roles and gender inequality?
 
-- The essay should include:
+- Include:
 
     - **Artifacts** as visible cultural forms such as media, clothing, symbols, food, language, festivals, rituals, stories, buildings, and public representation.
 
@@ -312,7 +312,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: How can culture be transformed?
 
-- The essay should include:
+- Include:
 
     - **Changing beliefs** through education, evidence, and repeated public discussion.
 
@@ -326,7 +326,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: How can cultural rights conflict with basic rights or human rights?
 
-- The essay should include:
+- Include:
 
     - The state-centered view that people should have equal access to culture and should be able to enjoy cultural participation.
 
@@ -344,7 +344,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: How do theories of culture explain cultural development, and how do they affect gender issues?
 
-- The essay should include:
+- Include:
 
     - **Environmental determinism** as the view that nature shapes human behavior and culture.
 
@@ -380,7 +380,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: compare **patriarchal society** and **matriarchal society**.
 
-- The essay should include:
+- Include:
 
     - The characteristics of a patriarchal society.
 
@@ -452,7 +452,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: explain how culture turns gender inequality into everyday social practice.
 
-- The essay should include:
+- Include:
 
     - How patriarchal beliefs become norms.
 
@@ -474,7 +474,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: explain strategies for ending **gender-based violence** and the burdens that make it difficult to end.
 
-- The essay should include:
+- Include:
 
     - Cultural beliefs that normalize male control.
 
@@ -500,7 +500,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: evaluate whether some matriarchal practices challenge common family values.
 
-- The essay should include:
+- Include:
 
     - Women's right to have multiple husbands in the Indian matriarchal example.
 
@@ -518,7 +518,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: explain how witchcraft changed from folk practice, healing, spirituality, and nature-based ritual into an evil or dangerous category.
 
-- The essay should include:
+- Include:
 
     - Witchcraft as an **earth-based religion** connected to nature, spirits, deities, ancestors, natural elements, moon cycles, and seasonal change.
 
@@ -550,7 +550,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: explain witch hunts as systems of fear, social control, accusation, and conformity.
 
-- The essay should include:
+- Include:
 
     - Witch hunts did not target people randomly.
 
@@ -580,7 +580,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: analyze witchcraft accusations as overlapping systems of discrimination.
 
-- The essay should include:
+- Include:
 
     - **Intersectionality** means overlapping identities affect how people experience discrimination.
 
@@ -618,7 +618,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: compare how witchcraft can be feared, respected, or used depending on cultural and religious context.
 
-- The essay should include:
+- Include:
 
     - European Christian demonization linked witchcraft to Satan, evil, heresy, and danger.
 
@@ -634,7 +634,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: analyze a case where a person is labeled a witch because of social difference.
 
-- The essay should include:
+- Include:
 
     - What identities make the person vulnerable.
 
@@ -654,7 +654,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: Explain how witchcraft began as practical healing, protection, luck, and spiritual support, then became defined as evil.
 
-- The essay should include:
+- Include:
 
     - Witchcraft helped people solve daily problems, cure symptoms, seek luck, protect themselves from spirits, and gain emotional relief.
 
@@ -670,7 +670,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: Explain witch hunts as systems of fear, coercion, legal injustice, and social control.
 
-- The essay should include:
+- Include:
 
     - The process moved from accusation to examination, then confession or denial, then punishment.
 
@@ -690,7 +690,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: Explain why witchcraft accusation was gendered but also shaped by age, class, marital status, reputation, and social protection.
 
-- The essay should include:
+- Include:
 
     - Women were targeted because women were seen as suspicious, morally weak, or dangerous when they had knowledge or independence.
 
@@ -706,7 +706,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: Use the general witch-trial process to prepare for Salem as a case study of religion, fear, gender-based violence, and community control.
 
-- The essay should include:
+- Include:
 
     - Accusations could begin from fear, rumors, conflict, jealousy, or community tension.
 
@@ -726,7 +726,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: **Salem Witch Trials as a case study of gender-based violence and Puritan social control**.
 
-- The essay should include:
+- Include:
 
     - Puritan beliefs in strict morality, religious discipline, fear of sin, fear of the Devil, and the need to purify the community.
 
@@ -748,7 +748,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: **witch hunts as systems of fear, conformity, and forced confession**.
 
-- The essay should include:
+- Include:
 
     - How fear spread after the first accusations.
 
@@ -768,7 +768,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: **how overlapping inequalities shaped witchcraft accusations**.
 
-- The essay should include:
+- Include:
 
     - A definition of **intersectionality** as overlapping systems of oppression.
 
@@ -788,7 +788,7 @@ These are final essay topics and answer requirements supported by the final lect
 
 - Possible essay focus: **how non-Puritan healing and spiritual practices were redefined as evil**.
 
-- The essay should include:
+- Include:
 
     - Tituba's herbs, healing knowledge, songs, stories, blessings, and ancestor-spirit beliefs.
 

@@ -568,50 +568,6 @@ These notes consolidate final-exam lecture material from 2026-06-11 through 2026
 
     - This shows how women's rights work can connect organization-building, law reform, and public pressure.
 
-#### Essay Connections
-
-- **Relevant essay topic: King Rama V and the modern Thai woman.**
-
-    - The essay should explain how modernization required women's labor, education, and public participation.
-
-    - A strong answer should criticize contradictions in the proposed modern woman: education but moderate knowledge, self-development but limited opportunity, current awareness but limited public voice, and good reputation but pressure to hide mistakes.
-
-- **Relevant essay topic: Thailand's sincerity in joining the UN and CEDAW.**
-
-    - The essay should include both sides: human rights progress and strategic national benefit.
-
-    - Use UN membership to discuss recognition, security, development support, and international voice.
-
-    - Use CEDAW to discuss gender equality, labor needs, foreign investment, workplace discrimination, and international reputation.
-
-- **Relevant essay topic: Domestic Violence Victim Protection Act.**
-
-    - The essay should explain what the Act protects: mental, physical, and sexual harm.
-
-    - A strong answer should explain why Thailand protects victims after violence rather than fully preventing violence before it happens.
-
-    - Prevention requires public awareness, gender-equality education, economic empowerment, police training, early risk recognition, and cultural change.
-
-- **Relevant essay topic: Thai and Western feminist comparison.**
-
-    - The essay should compare liberal, radical, and conservative or cultural feminism.
-
-    - Thai liberal feminism is close to Western liberal feminism because both focus on law and reform.
-
-    - Thai radical feminism is less confrontational than Western radical feminism because it tends to raise awareness and work around patriarchy rather than directly destroy patriarchal institutions.
-
-    - Conservative or cultural feminism supports women's advancement while preserving tradition and stability.
-
-- **Relevant essay topic: Cultural components and inequality.**
-
-    - Use women's clothing, music, literature, and national images as **artifacts**.
-
-    - Use family structure, education, law, and state institutions as **sociofacts**.
-
-    - Use beliefs about reputation, obedience, domestic duty, and patriarchy as **mentifacts**.
-
-    - A strong answer should show how changing beliefs, institutions, and representation together is necessary for gender equality.
-
 ## Lecture 10 - 2026-06-16
 
 ### Main Topics
@@ -1522,32 +1478,6 @@ These notes consolidate final-exam lecture material from 2026-06-11 through 2026
 
 - A balanced answer can still mention that rapid cultural change may create social conflict, but keeping unfair norms unchanged can make gender inequality last longer.
 
-### Essay Connections
-
-- **Relevant essay topic: Cultural Perspectives**
-
-    - The essay should compare conservative, liberal, and radical views of culture.
-
-    - A strong answer should explain how each perspective understands dignity, belonging, unity, identity, and cultural change.
-
-    - The answer should evaluate which side reduces gender issues and which side prolongs them.
-
-- **Relevant essay topic: Cultural Components and Inequality**
-
-    - The essay should connect gender inequality to artifacts, sociofacts, and mentifacts.
-
-    - Examples from this lecture include witch and wizard images, sanitary-pad hiding, dress norms, domestic violence, family authority, and beliefs about women's dignity.
-
-    - A strong answer should explain how changing beliefs, institutions, and representation can transform culture.
-
-- **Relevant essay topic: Thai feminist organizations and feminist perspectives**
-
-    - The essay should compare conservative/cultural, state, socialist/Marxist, intersectional, queer/LGBTQ+, and grassroots/community feminism in Thailand.
-
-    - A strong answer should distinguish support-based women's organizations from power-changing feminist organizations.
-
-    - The answer should explain each perspective's strengths, limits, target groups, and method of change.
-
 ## Lecture 11 - 2026-06-18
 
 ### Main Topics
@@ -2332,24 +2262,6 @@ These notes consolidate final-exam lecture material from 2026-06-11 through 2026
 
     - Changing beliefs without institutional reform may leave people without legal protection.
 
-### Essay Connections
-
-- **Relevant essay topic: Cultural Components and Inequality**
-
-    - The essay should explain **artifacts**, **sociofacts**, and **mentifacts**.
-
-    - It should show how each component reinforces gender roles and inequality.
-
-    - It should connect cultural transformation to changing beliefs, reforming institutions, and redesigning representation.
-
-- **Relevant essay topic: Systems and Theories**
-
-    - The essay should explain how **environmental determinism**, **possibilism**, **cultural ecology**, and **positivism** define the origin of culture.
-
-    - It should compare their strengths and weaknesses for gender justice.
-
-    - It should explain how theories can either support accountability or excuse gender-based harm.
-
 ## Lecture 12 - 2026-06-23
 
 ### Main Topics
@@ -3018,36 +2930,6 @@ These notes consolidate final-exam lecture material from 2026-06-11 through 2026
 
 - A strong answer should evaluate matriarchy critically, not simply present it as the perfect opposite of patriarchy.
 
-### Essay Connections
-
-- **Relevant essay topic: Systems and Theories.**
-
-    - The essay should compare **patriarchal systems** and **maternal / matriarchal systems**.
-
-    - A strong answer should explain the characteristics, strengths, and weaknesses of each system.
-
-    - Use patriarchy to discuss male dominance, hierarchy, property control, political power, gender roles, and gender-based violence.
-
-    - Use matriarchy to discuss mother-centered society, maternal values, equality, consensus finding, gift giving, peace-building, and resource distribution.
-
-    - The answer should also analyze what features of either system might help a country become developed.
-
-- **Relevant essay topic: Cultural Components and Inequality.**
-
-    - The essay should explain how beliefs, norms, roles, laws, and institutions reinforce gender inequality.
-
-    - Use gender roles, beauty standards, shaming language, property control, and domestic violence as examples of culture turning inequality into everyday practice.
-
-    - A strong answer should propose strategies for changing culture, such as education, legal reform, institutional reform, and changing gender representation.
-
-- **Lecture-specific essay focus: gender roles and gender-based violence.**
-
-    - The essay should explain both the advantages and disadvantages of gender roles.
-
-    - It should identify what makes gender-based violence hard to end.
-
-    - It should propose realistic strategies to reduce gender-based violence while explaining why those strategies address the root causes.
-
 ## Lecture 13 - 2026-06-30
 
 ### Main Topics
@@ -3694,34 +3576,6 @@ These notes consolidate final-exam lecture material from 2026-06-11 through 2026
 
 - Uniforms, gendered bathrooms, dress codes, and assumptions about professional appearance can all become examples for discussing whether a community is truly inclusive.
 
-### Essay Connections
-
-- **Relevant essay topic: Origins and Demonization of Witchcraft**
-
-    - The essay should explain witchcraft as early folk practice, healing, spirituality, nature-based ritual, and daily problem-solving.
-
-    - A strong answer should explain how Christianity redefined witchcraft as evil through demonization, Satanic imagery, and public fear.
-
-    - The essay should compare **Paganism**, **witchcraft**, and **Wicca**.
-
-- **Relevant essay topic: Witch Hunts and Confession Process**
-
-    - Use this lecture mainly for the parts on witch hunts as control, accusation, public fear, scapegoating, and lack of fair justice.
-
-    - A strong answer should explain why accusation could become enough to destroy a person's life.
-
-- **Relevant essay topic: Witchcraft and Intersectionality**
-
-    - The essay should use Maria and Alex to show how gender, age, class, religion, marital status, healing knowledge, and gender identity can overlap.
-
-    - A strong answer should argue that witchcraft accusations were systemic discrimination, not random suspicion.
-
-- **Relevant essay topic: Asian vs. European Witchcraft**
-
-    - Use this lecture for the contrast between European Christian demonization and more varied local or Asian forms connected to spirits, deities, healing, and community problem-solving.
-
-    - A strong answer should still avoid overgeneralizing: witchcraft can be respected, feared, or punished depending on the cultural context.
-
 ## Lecture 14 - 2026-07-02
 
 ### Main Topics
@@ -4204,36 +4058,6 @@ These notes consolidate final-exam lecture material from 2026-06-11 through 2026
 
 - These accusations turned ordinary fears, family problems, illness, and romantic suffering into evidence of evil.
 
-### Essay Connections
-
-- **Relevant essay topic: Origins and Demonization of Witchcraft**
-
-    - The essay should explain how early witchcraft worked as healing, folk practice, spirituality, and practical support.
-
-    - A strong answer should show how Christianity redefined witchcraft as Satanic, evil, and dangerous.
-
-    - The essay should connect demonization to church power, fear of women's influence, and public perception.
-
-- **Relevant essay topic: Witch Hunts and Confession Process**
-
-    - The essay should explain accusation, examination, confession or denial, and punishment.
-
-    - A strong answer should include torture, isolation, leading questions, lack of evidence, and why confession could be coerced or strategic.
-
-    - Use the idea of witchcraft as a **secret crime** to explain why accusation did not require solid proof.
-
-- **Relevant essay topic: Witchcraft and Intersectionality**
-
-    - The essay should explain why women were targeted, but also include age, poverty, widowhood, marital status, reputation, and lack of protection.
-
-    - A strong answer should use older women and wise women as examples of how knowledge could become suspicious.
-
-- **Relevant essay topic: Salem Witch Trials and Puritan Society**
-
-    - This lecture is useful background for the trial process: accusation, examination, confession or denial, punishment, community pressure, and social control.
-
-    - A strong answer should connect witch trials to fear, religious authority, gendered violence, and the policing of people who did not fit social norms.
-
 ## Lecture 15 - 2026-07-09
 
 ### Main Topics
@@ -4691,37 +4515,3 @@ These notes consolidate final-exam lecture material from 2026-06-11 through 2026
     - Purifying the town.
 
     - Defending God against the Devil.
-
-### Essay Connections
-
-- **Relevant essay topic: Salem Witch Trials & Puritan Society**
-
-    - The essay should explain Puritan strict morality, fear of sin, fear of the Devil, religious discipline, surveillance, gossip, and patriarchal social order.
-
-    - A strong answer should show how religion justified violence by turning social outsiders into threats to the community.
-
-    - Use Tituba, Sarah Good, Martha Corey, Bridget Bishop, Betty Parris, Abigail Williams, and William Griggs to explain how the trials began and escalated.
-
-- **Relevant essay topic: Witch Hunts and Confession Process**
-
-    - The essay should explain accusation, examination, pressure, confession or denial, and punishment.
-
-    - A strong answer should explain why forced confession strengthened belief in witchcraft and expanded the hunt.
-
-    - Tituba's confession is important because it turned one accusation into fear of hidden witches across the community.
-
-- **Relevant essay topic: Witchcraft and Intersectionality**
-
-    - The essay should explain how gender, race, enslavement, class, age, poverty, church attendance, reputation, and independence shaped who became vulnerable.
-
-    - Tituba is the clearest intersectional example because race, enslavement, gender, religion, and class all made her easier to target.
-
-    - Sarah Good shows the overlap of poverty, motherhood expectations, gender, and social anger.
-
-    - Bridget Bishop shows how economic independence and public reputation could become evidence of female deviance.
-
-- **Relevant essay topic: Origins and Demonization of Witchcraft**
-
-    - This lecture can support the part of the essay about how healing, folk knowledge, spirits, blessings, and unfamiliar spiritual practices were redefined as evil.
-
-    - Tituba's healing knowledge and ancestor-spirit beliefs show how cultural practice could be demonized when filtered through Puritan fear.

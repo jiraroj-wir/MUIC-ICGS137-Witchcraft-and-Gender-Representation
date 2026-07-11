@@ -4,7 +4,7 @@
 
 - Possible essay focus: **Salem Witch Trials as a case study of gender-based violence and Puritan social control**.
 
-- The essay should include:
+- Include:
 
     - Puritan beliefs in strict morality, religious discipline, fear of sin, fear of the Devil, and the need to purify the community.
 
@@ -26,7 +26,7 @@
 
 - Possible essay focus: **witch hunts as systems of fear, conformity, and forced confession**.
 
-- The essay should include:
+- Include:
 
     - How fear spread after the first accusations.
 
@@ -46,7 +46,7 @@
 
 - Possible essay focus: **how overlapping inequalities shaped witchcraft accusations**.
 
-- The essay should include:
+- Include:
 
     - A definition of **intersectionality** as overlapping systems of oppression.
 
@@ -66,7 +66,7 @@
 
 - Possible essay focus: **how non-Puritan healing and spiritual practices were redefined as evil**.
 
-- The essay should include:
+- Include:
 
     - Tituba's herbs, healing knowledge, songs, stories, blessings, and ancestor-spirit beliefs.
 
