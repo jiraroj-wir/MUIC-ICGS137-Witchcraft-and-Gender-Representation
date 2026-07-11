@@ -36,3 +36,28 @@ nav:
           - "08 - 2026-05-26":
               - Lecture: midterm/lectures/lecture-08_2026-05-26/Lecture.md
               - Questions: midterm/lectures/lecture-08_2026-05-26/Questions.md
+  - Final:
+      - Lecture Notes: final/Lecture.md
+      - Questions: final/Questions.md
+      - Individual Lectures:
+          - "09 - 2026-06-11":
+              - Lecture: final/lectures/lecture-09_2026-06-11/Lecture.md
+              - Questions: final/lectures/lecture-09_2026-06-11/Questions.md
+          - "10 - 2026-06-16":
+              - Lecture: final/lectures/lecture-10_2026-06-16/Lecture.md
+              - Questions: final/lectures/lecture-10_2026-06-16/Questions.md
+          - "11 - 2026-06-18":
+              - Lecture: final/lectures/lecture-11_2026-06-18/Lecture.md
+              - Questions: final/lectures/lecture-11_2026-06-18/Questions.md
+          - "12 - 2026-06-23":
+              - Lecture: final/lectures/lecture-12_2026-06-23/Lecture.md
+              - Questions: final/lectures/lecture-12_2026-06-23/Questions.md
+          - "13 - 2026-06-30":
+              - Lecture: final/lectures/lecture-13_2026-06-30/Lecture.md
+              - Questions: final/lectures/lecture-13_2026-06-30/Questions.md
+          - "14 - 2026-07-02":
+              - Lecture: final/lectures/lecture-14_2026-07-02/Lecture.md
+              - Questions: final/lectures/lecture-14_2026-07-02/Questions.md
+          - "15 - 2026-07-09":
+              - Lecture: final/lectures/lecture-15_2026-07-09/Lecture.md
+              - Questions: final/lectures/lecture-15_2026-07-09/Questions.md

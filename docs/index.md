@@ -62,6 +62,28 @@
 
 - For larger questions, give enough reasoning and examples.
 
+## Final Format
+
+- The final exam uses **long essay answers**.
+
+- The exam gives several possible essay topics.
+
+- Students choose **two topics** and write developed essays.
+
+- Strong final essays should:
+
+    - answer the exact topic
+
+    - define key concepts clearly
+
+    - compare relevant perspectives when needed
+
+    - use examples from the lecture notes
+
+    - explain reasoning, not only list facts
+
+    - include criticism where the topic asks for evaluation
+
 ## Question System
 
 - The professor said students will hear or receive exam-style questions before the exam.
@@ -77,6 +99,10 @@
 - [Midterm Lecture Notes](midterm/Lecture.md)
 
 - [Midterm Questions](midterm/Questions.md)
+
+- [Final Lecture Notes](final/Lecture.md)
+
+- [Final Questions](final/Questions.md)
 
 ## Intro Class Notes
 
