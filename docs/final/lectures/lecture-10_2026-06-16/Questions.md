@@ -16,8 +16,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Question / topic:** Explain what **conservative**, **liberal**, and **radical** perspectives think about culture; evaluate which side is more reasonable; and identify which side helps reduce or prolong gender issues.
 
-- **Why marked:** stated as **"This is going to be one of your essays"** and followed by **"I will ask you to explain"** conservative, liberal, and radical views of culture.
-
 - Include:
 
     - Conservatives aim to protect and maintain existing culture.

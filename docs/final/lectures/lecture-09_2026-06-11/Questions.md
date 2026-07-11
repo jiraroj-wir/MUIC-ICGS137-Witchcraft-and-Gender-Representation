@@ -16,8 +16,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Question / topic:** Explain the **Domestic Violence Victim Protection Act**, why it gives protection rather than prevention, and what would be needed to prevent domestic violence.
 
-- **Why marked:** described as **"part of your essay choice"** and followed by **"I will ask you"** why protection is possible but prevention is difficult.
-
 - Include:
 
     - The Act was created in **2007**.
@@ -37,8 +35,6 @@ Topics without a clear exam signal are not listed here.
 - **Label:** `Choice`
 
 - **Question / topic:** Compare and contrast **Thai feminists** and **Western feminists**, especially liberal, radical, and conservative approaches.
-
-- **Why marked:** introduced as **"another essay question"** and phrased as **"I will ask you to compare and contrast Thai feminists to Western feminists."**
 
 - Include:
 
@@ -62,8 +58,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Required part:** Criticize whether **King Rama V's proposed qualities for modern Thai women** were reasonable, practical, or contradictory.
 
-- **Why marked:** described as **"content that you have to cover in your essay"** and as a part asking students to **criticize if what the King proposed is reasonable**.
-
 - Include:
 
     - Evaluate whether the proposal was reasonable, contradictory, or impractical.
@@ -81,8 +75,6 @@ Topics without a clear exam signal are not listed here.
 - **Label:** `Part`
 
 - **Required part:** Criticize whether Thailand was sincere when it joined the **UN** and ratified **CEDAW**.
-
-- **Why marked:** stated as **"there will be one part"** of the essay asking students to criticize Thailand's sincerity in joining the UN and CEDAW.
 
 - Include:
 

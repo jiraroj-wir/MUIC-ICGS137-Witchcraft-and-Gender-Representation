@@ -16,8 +16,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Question / topic:** Explain the characteristics of **patriarchy** and **matriarchy**, compare their strengths and weaknesses, and analyze whether each system can help a country become developed.
 
-- **Why marked:** introduced as an essay, phrased as **"I will ask you"**, and later confirmed with **"the whole essay is one of your choices."**
-
 - Include:
 
     - Explain the general characteristics of patriarchy and matriarchy.
@@ -40,8 +38,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Required part:** Analyze the benefits, advantages, and disadvantages of **gender roles**.
 
-- **Why marked:** stated as **"in your essay"** and connected to analyzing the benefits, advantages, and disadvantages of gender roles.
-
 - Include:
 
     - Gender roles are oppressive, especially to women.
@@ -55,8 +51,6 @@ Topics without a clear exam signal are not listed here.
 - **Label:** `Part`
 
 - **Required part:** Propose strategies to end **gender-based violence** and identify the barriers that make it difficult to end.
-
-- **Why marked:** stated as **"one part in your essay"** and connected to thinking of strategies to end gender-based violence.
 
 - Include:
 

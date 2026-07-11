@@ -18,8 +18,6 @@ How to read the labels:
 
 - **Question / topic:** Explain the **Domestic Violence Victim Protection Act**, why it gives protection rather than prevention, and what would be needed to prevent domestic violence.
 
-- **Why marked:** described as **"part of your essay choice"** and followed by **"I will ask you"** why protection is possible but prevention is difficult.
-
 - Include:
 
     - The Act was created in **2007**.
@@ -39,8 +37,6 @@ How to read the labels:
 - **Label:** `Choice`
 
 - **Question / topic:** Compare and contrast **Thai feminists** and **Western feminists**, especially liberal, radical, and conservative approaches.
-
-- **Why marked:** introduced as **"another essay question"** and phrased as **"I will ask you to compare and contrast Thai feminists to Western feminists."**
 
 - Include:
 
@@ -64,8 +60,6 @@ How to read the labels:
 
 - **Required part:** Criticize whether **King Rama V's proposed qualities for modern Thai women** were reasonable, practical, or contradictory.
 
-- **Why marked:** described as **"content that you have to cover in your essay"** and as a part asking students to **criticize if what the King proposed is reasonable**.
-
 - Include:
 
     - Evaluate whether the proposal was reasonable, contradictory, or impractical.
@@ -83,8 +77,6 @@ How to read the labels:
 - **Label:** `Part`
 
 - **Required part:** Criticize whether Thailand was sincere when it joined the **UN** and ratified **CEDAW**.
-
-- **Why marked:** stated as **"there will be one part"** of the essay asking students to criticize Thailand's sincerity in joining the UN and CEDAW.
 
 - Include:
 
@@ -105,8 +97,6 @@ How to read the labels:
 - **Label:** `Choice`
 
 - **Question / topic:** Explain what **conservative**, **liberal**, and **radical** perspectives think about culture; evaluate which side is more reasonable; and identify which side helps reduce or prolong gender issues.
-
-- **Why marked:** stated as **"This is going to be one of your essays"** and followed by **"I will ask you to explain"** conservative, liberal, and radical views of culture.
 
 - Include:
 
@@ -134,8 +124,6 @@ How to read the labels:
 
 - **Question / topic:** Apply **cultural theories** to gender issues, especially environmental determinism and positivism.
 
-- **Why marked:** stated as **"there will be a few questions based on these theories."**
-
 - Include:
 
     - **Environmental determinism** explains culture as arising from nature and treats nature as controlling human life.
@@ -158,8 +146,6 @@ How to read the labels:
 
 - **Required part:** Give an example of a **Thai custom or practice that does not make sense** and explain how such practices can continue harmful gender relations.
 
-- **Why marked:** stated as **"in the exam"** and connected to thinking of a Thai custom that does not make sense.
-
 - Include:
 
     - Identify a Thai custom or practice.
@@ -177,8 +163,6 @@ How to read the labels:
 - **Label:** `Choice`
 
 - **Question / topic:** Explain the characteristics of **patriarchy** and **matriarchy**, compare their strengths and weaknesses, and analyze whether each system can help a country become developed.
-
-- **Why marked:** introduced as an essay, phrased as **"I will ask you"**, and later confirmed with **"the whole essay is one of your choices."**
 
 - Include:
 
@@ -202,8 +186,6 @@ How to read the labels:
 
 - **Required part:** Analyze the benefits, advantages, and disadvantages of **gender roles**.
 
-- **Why marked:** stated as **"in your essay"** and connected to analyzing the benefits, advantages, and disadvantages of gender roles.
-
 - Include:
 
     - Gender roles are oppressive, especially to women.
@@ -217,8 +199,6 @@ How to read the labels:
 - **Label:** `Part`
 
 - **Required part:** Propose strategies to end **gender-based violence** and identify the barriers that make it difficult to end.
-
-- **Why marked:** stated as **"one part in your essay"** and connected to thinking of strategies to end gender-based violence.
 
 - Include:
 
@@ -238,8 +218,6 @@ How to read the labels:
 
 - **Question / topic:** For the **witchcraft question**, explain why witches were feared and demonized, starting with Christian condemnation.
 
-- **Why marked:** stated as material to **"include in your essay if you choose the witchcraft question."**
-
 - Include:
 
     - Start with condemnation by the Christian church.
@@ -255,8 +233,6 @@ How to read the labels:
 - **Label:** `Choice`
 
 - **Question / topic:** Analyze a witchcraft accusation case study using **intersectionality** and identity factors.
-
-- **Why marked:** stated as **"in exam"** and **"I will give you case study like this"** with a request to analyze it.
 
 - Include:
 
@@ -277,8 +253,6 @@ How to read the labels:
 - **Label:** `Part`
 
 - **Required part:** Explain how **radical** and **liberal** perspectives study witchcraft.
-
-- **Why marked:** stated as **"there will be one part that I ask"** about how radical and liberal perspectives study witchcraft.
 
 - Include:
 

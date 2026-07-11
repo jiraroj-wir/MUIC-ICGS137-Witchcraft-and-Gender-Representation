@@ -16,8 +16,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Required part:** Explain how **radical** and **liberal** perspectives study witchcraft.
 
-- **Why marked:** stated as **"there will be one part that I ask"** about how radical and liberal perspectives study witchcraft.
-
 - Include:
 
     - Use the radical and liberal perspectives as discussed in the lecture.

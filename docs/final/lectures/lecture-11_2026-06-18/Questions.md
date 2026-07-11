@@ -16,8 +16,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Question / topic:** Apply **cultural theories** to gender issues, especially environmental determinism and positivism.
 
-- **Why marked:** stated as **"there will be a few questions based on these theories."**
-
 - Include:
 
     - **Environmental determinism** explains culture as arising from nature and treats nature as controlling human life.
@@ -39,8 +37,6 @@ Topics without a clear exam signal are not listed here.
 - **Label:** `Part`
 
 - **Required part:** Give an example of a **Thai custom or practice that does not make sense** and explain how such practices can continue harmful gender relations.
-
-- **Why marked:** stated as **"in the exam"** and connected to thinking of a Thai custom that does not make sense.
 
 - Include:
 

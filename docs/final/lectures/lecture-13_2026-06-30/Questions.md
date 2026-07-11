@@ -16,8 +16,6 @@ Topics without a clear exam signal are not listed here.
 
 - **Question / topic:** For the **witchcraft question**, explain why witches were feared and demonized, starting with Christian condemnation.
 
-- **Why marked:** stated as material to **"include in your essay if you choose the witchcraft question."**
-
 - Include:
 
     - Start with condemnation by the Christian church.
@@ -33,8 +31,6 @@ Topics without a clear exam signal are not listed here.
 - **Label:** `Choice`
 
 - **Question / topic:** Analyze a witchcraft accusation case study using **intersectionality** and identity factors.
-
-- **Why marked:** stated as **"in exam"** and **"I will give you case study like this"** with a request to analyze it.
 
 - Include:
 
