@@ -1,12 +1,22 @@
 # Questions - Lecture 12, 2026-06-23
 
-## Confirmed Essay Choices
+This page uses short labels:
+
+- `Choice` = stated as a possible full essay question or topic.
+
+- `Part` = stated as something to include in an essay, but not necessarily a full standalone choice.
+
+Topics without a clear exam signal are not listed here.
+
+## Essay Items
 
 ### Patriarchy, Matriarchy, And Development
 
+- **Label:** `Choice`
+
 - **Question / topic:** Explain the characteristics of **patriarchy** and **matriarchy**, compare their strengths and weaknesses, and analyze whether each system can help a country become developed.
 
-- **Explicit signal:** introduced as an essay, phrased as **"I will ask you"**, and later confirmed with **"the whole essay is one of your choices."**
+- **Why marked:** introduced as an essay, phrased as **"I will ask you"**, and later confirmed with **"the whole essay is one of your choices."**
 
 - Include:
 
@@ -22,13 +32,15 @@
 
     - Consider whether women having multiple husbands disturbs universal family values, because this was signaled as something to insert into one essay.
 
-## Confirmed Required Essay Parts
+## Essay Parts
 
 ### Benefits And Problems Of Gender Roles
 
+- **Label:** `Part`
+
 - **Required part:** Analyze the benefits, advantages, and disadvantages of **gender roles**.
 
-- **Explicit signal:** stated as **"in your essay"** and connected to analyzing the benefits, advantages, and disadvantages of gender roles.
+- **Why marked:** stated as **"in your essay"** and connected to analyzing the benefits, advantages, and disadvantages of gender roles.
 
 - Include:
 
@@ -40,9 +52,11 @@
 
 ### Strategies To End Gender-Based Violence
 
+- **Label:** `Part`
+
 - **Required part:** Propose strategies to end **gender-based violence** and identify the barriers that make it difficult to end.
 
-- **Explicit signal:** stated as **"one part in your essay"** and connected to thinking of strategies to end gender-based violence.
+- **Why marked:** stated as **"one part in your essay"** and connected to thinking of strategies to end gender-based violence.
 
 - Include:
 

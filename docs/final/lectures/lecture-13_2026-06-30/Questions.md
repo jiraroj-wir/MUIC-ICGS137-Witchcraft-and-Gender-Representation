@@ -1,12 +1,22 @@
 # Questions - Lecture 13, 2026-06-30
 
-## Confirmed Essay Choices
+This page uses short labels:
+
+- `Choice` = stated as a possible full essay question or topic.
+
+- `Part` = stated as something to include in an essay, but not necessarily a full standalone choice.
+
+Topics without a clear exam signal are not listed here.
+
+## Essay Items
 
 ### Witchcraft, Fear, And Demonization
 
+- **Label:** `Choice`
+
 - **Question / topic:** For the **witchcraft question**, explain why witches were feared and demonized, starting with Christian condemnation.
 
-- **Explicit signal:** stated as material to **"include in your essay if you choose the witchcraft question."**
+- **Why marked:** stated as material to **"include in your essay if you choose the witchcraft question."**
 
 - Include:
 
@@ -20,9 +30,11 @@
 
 ### Witchcraft Case Study And Intersectionality
 
+- **Label:** `Choice`
+
 - **Question / topic:** Analyze a witchcraft accusation case study using **intersectionality** and identity factors.
 
-- **Explicit signal:** stated as **"in exam"** and **"I will give you case study like this"** with a request to analyze it.
+- **Why marked:** stated as **"in exam"** and **"I will give you case study like this"** with a request to analyze it.
 
 - Include:
 

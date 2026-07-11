@@ -1,12 +1,22 @@
 # Questions - Lecture 10, 2026-06-16
 
-## Confirmed Essay Choices
+This page uses short labels:
+
+- `Choice` = stated as a possible full essay question or topic.
+
+- `Part` = stated as something to include in an essay, but not necessarily a full standalone choice.
+
+Topics without a clear exam signal are not listed here.
+
+## Essay Items
 
 ### Cultural Perspectives
 
+- **Label:** `Choice`
+
 - **Question / topic:** Explain what **conservative**, **liberal**, and **radical** perspectives think about culture; evaluate which side is more reasonable; and identify which side helps reduce or prolong gender issues.
 
-- **Explicit signal:** stated as **"This is going to be one of your essays"** and followed by **"I will ask you to explain"** conservative, liberal, and radical views of culture.
+- **Why marked:** stated as **"This is going to be one of your essays"** and followed by **"I will ask you to explain"** conservative, liberal, and radical views of culture.
 
 - Include:
 

@@ -1,12 +1,22 @@
 # Questions - Lecture 09, 2026-06-11
 
-## Confirmed Essay Choices
+This page uses short labels:
+
+- `Choice` = stated as a possible full essay question or topic.
+
+- `Part` = stated as something to include in an essay, but not necessarily a full standalone choice.
+
+Topics without a clear exam signal are not listed here.
+
+## Essay Items
 
 ### Domestic Violence Victim Protection Act
 
+- **Label:** `Choice`
+
 - **Question / topic:** Explain the **Domestic Violence Victim Protection Act**, why it gives protection rather than prevention, and what would be needed to prevent domestic violence.
 
-- **Explicit signal:** described as **"part of your essay choice"** and followed by **"I will ask you"** why protection is possible but prevention is difficult.
+- **Why marked:** described as **"part of your essay choice"** and followed by **"I will ask you"** why protection is possible but prevention is difficult.
 
 - Include:
 
@@ -24,9 +34,11 @@
 
 ### Thai Feminists And Western Feminists
 
+- **Label:** `Choice`
+
 - **Question / topic:** Compare and contrast **Thai feminists** and **Western feminists**, especially liberal, radical, and conservative approaches.
 
-- **Explicit signal:** introduced as **"another essay question"** and phrased as **"I will ask you to compare and contrast Thai feminists to Western feminists."**
+- **Why marked:** introduced as **"another essay question"** and phrased as **"I will ask you to compare and contrast Thai feminists to Western feminists."**
 
 - Include:
 
@@ -42,13 +54,15 @@
 
     - Western radical feminists are described as more active in going after patriarchy, perpetrators, and institutions.
 
-## Confirmed Required Essay Parts
+## Essay Parts
 
 ### King Rama V And The Modern Thai Woman
 
+- **Label:** `Part`
+
 - **Required part:** Criticize whether **King Rama V's proposed qualities for modern Thai women** were reasonable, practical, or contradictory.
 
-- **Explicit signal:** described as **"content that you have to cover in your essay"** and as a part asking students to **criticize if what the King proposed is reasonable**.
+- **Why marked:** described as **"content that you have to cover in your essay"** and as a part asking students to **criticize if what the King proposed is reasonable**.
 
 - Include:
 
@@ -64,9 +78,11 @@
 
 ### Thailand, The UN, And CEDAW
 
+- **Label:** `Part`
+
 - **Required part:** Criticize whether Thailand was sincere when it joined the **UN** and ratified **CEDAW**.
 
-- **Explicit signal:** stated as **"there will be one part"** of the essay asking students to criticize Thailand's sincerity in joining the UN and CEDAW.
+- **Why marked:** stated as **"there will be one part"** of the essay asking students to criticize Thailand's sincerity in joining the UN and CEDAW.
 
 - Include:
 

@@ -1,12 +1,22 @@
 # Questions - Lecture 11, 2026-06-18
 
-## Confirmed Essay Choices
+This page uses short labels:
+
+- `Choice` = stated as a possible full essay question or topic.
+
+- `Part` = stated as something to include in an essay, but not necessarily a full standalone choice.
+
+Topics without a clear exam signal are not listed here.
+
+## Essay Items
 
 ### Cultural Theories And Gender Issues
 
+- **Label:** `Choice`
+
 - **Question / topic:** Apply **cultural theories** to gender issues, especially environmental determinism and positivism.
 
-- **Explicit signal:** stated as **"there will be a few questions based on these theories."**
+- **Why marked:** stated as **"there will be a few questions based on these theories."**
 
 - Include:
 
@@ -22,13 +32,15 @@
 
     - Positivism can also leave little room for hope, imagination, and human nature.
 
-## Confirmed Required Essay Parts
+## Essay Parts
 
 ### Thai Custom Or Practice That Does Not Make Sense
 
+- **Label:** `Part`
+
 - **Required part:** Give an example of a **Thai custom or practice that does not make sense** and explain how such practices can continue harmful gender relations.
 
-- **Explicit signal:** stated as **"in the exam"** and connected to thinking of a Thai custom that does not make sense.
+- **Why marked:** stated as **"in the exam"** and connected to thinking of a Thai custom that does not make sense.
 
 - Include:
 

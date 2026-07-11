@@ -1,18 +1,24 @@
 # Final Questions
 
-These are only final essay choices or required essay parts that were explicitly signaled for the exam. Topics without clear exam signals are excluded.
+These are only final essay choices or required essay parts that were clearly stated for the exam. Topics without a clear exam signal are not listed here.
 
-Each item includes an **Explicit signal** line to show why it is included.
+How to read the labels:
+
+- `Choice` = stated as a possible full essay question or topic.
+
+- `Part` = stated as something to include in an essay, but not necessarily a full standalone choice.
 
 ## Lecture 09 - 2026-06-11
 
-### Confirmed Essay Choices
+### Essay Items
 
 #### Domestic Violence Victim Protection Act
 
+- **Label:** `Choice`
+
 - **Question / topic:** Explain the **Domestic Violence Victim Protection Act**, why it gives protection rather than prevention, and what would be needed to prevent domestic violence.
 
-- **Explicit signal:** described as **"part of your essay choice"** and followed by **"I will ask you"** why protection is possible but prevention is difficult.
+- **Why marked:** described as **"part of your essay choice"** and followed by **"I will ask you"** why protection is possible but prevention is difficult.
 
 - Include:
 
@@ -30,9 +36,11 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 #### Thai Feminists And Western Feminists
 
+- **Label:** `Choice`
+
 - **Question / topic:** Compare and contrast **Thai feminists** and **Western feminists**, especially liberal, radical, and conservative approaches.
 
-- **Explicit signal:** introduced as **"another essay question"** and phrased as **"I will ask you to compare and contrast Thai feminists to Western feminists."**
+- **Why marked:** introduced as **"another essay question"** and phrased as **"I will ask you to compare and contrast Thai feminists to Western feminists."**
 
 - Include:
 
@@ -48,13 +56,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
     - Western radical feminists are described as more active in going after patriarchy, perpetrators, and institutions.
 
-### Confirmed Required Essay Parts
+### Essay Parts
 
 #### King Rama V And The Modern Thai Woman
 
+- **Label:** `Part`
+
 - **Required part:** Criticize whether **King Rama V's proposed qualities for modern Thai women** were reasonable, practical, or contradictory.
 
-- **Explicit signal:** described as **"content that you have to cover in your essay"** and as a part asking students to **criticize if what the King proposed is reasonable**.
+- **Why marked:** described as **"content that you have to cover in your essay"** and as a part asking students to **criticize if what the King proposed is reasonable**.
 
 - Include:
 
@@ -70,9 +80,11 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 #### Thailand, The UN, And CEDAW
 
+- **Label:** `Part`
+
 - **Required part:** Criticize whether Thailand was sincere when it joined the **UN** and ratified **CEDAW**.
 
-- **Explicit signal:** stated as **"there will be one part"** of the essay asking students to criticize Thailand's sincerity in joining the UN and CEDAW.
+- **Why marked:** stated as **"there will be one part"** of the essay asking students to criticize Thailand's sincerity in joining the UN and CEDAW.
 
 - Include:
 
@@ -86,13 +98,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 ## Lecture 10 - 2026-06-16
 
-### Confirmed Essay Choices
+### Essay Items
 
 #### Cultural Perspectives
 
+- **Label:** `Choice`
+
 - **Question / topic:** Explain what **conservative**, **liberal**, and **radical** perspectives think about culture; evaluate which side is more reasonable; and identify which side helps reduce or prolong gender issues.
 
-- **Explicit signal:** stated as **"This is going to be one of your essays"** and followed by **"I will ask you to explain"** conservative, liberal, and radical views of culture.
+- **Why marked:** stated as **"This is going to be one of your essays"** and followed by **"I will ask you to explain"** conservative, liberal, and radical views of culture.
 
 - Include:
 
@@ -112,13 +126,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 ## Lecture 11 - 2026-06-18
 
-### Confirmed Essay Choices
+### Essay Items
 
 #### Cultural Theories And Gender Issues
 
+- **Label:** `Choice`
+
 - **Question / topic:** Apply **cultural theories** to gender issues, especially environmental determinism and positivism.
 
-- **Explicit signal:** stated as **"there will be a few questions based on these theories."**
+- **Why marked:** stated as **"there will be a few questions based on these theories."**
 
 - Include:
 
@@ -134,13 +150,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
     - Positivism can also leave little room for hope, imagination, and human nature.
 
-### Confirmed Required Essay Parts
+### Essay Parts
 
 #### Thai Custom Or Practice That Does Not Make Sense
 
+- **Label:** `Part`
+
 - **Required part:** Give an example of a **Thai custom or practice that does not make sense** and explain how such practices can continue harmful gender relations.
 
-- **Explicit signal:** stated as **"in the exam"** and connected to thinking of a Thai custom that does not make sense.
+- **Why marked:** stated as **"in the exam"** and connected to thinking of a Thai custom that does not make sense.
 
 - Include:
 
@@ -152,13 +170,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 ## Lecture 12 - 2026-06-23
 
-### Confirmed Essay Choices
+### Essay Items
 
 #### Patriarchy, Matriarchy, And Development
 
+- **Label:** `Choice`
+
 - **Question / topic:** Explain the characteristics of **patriarchy** and **matriarchy**, compare their strengths and weaknesses, and analyze whether each system can help a country become developed.
 
-- **Explicit signal:** introduced as an essay, phrased as **"I will ask you"**, and later confirmed with **"the whole essay is one of your choices."**
+- **Why marked:** introduced as an essay, phrased as **"I will ask you"**, and later confirmed with **"the whole essay is one of your choices."**
 
 - Include:
 
@@ -174,13 +194,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
     - Consider whether women having multiple husbands disturbs universal family values, because this was signaled as something to insert into one essay.
 
-### Confirmed Required Essay Parts
+### Essay Parts
 
 #### Benefits And Problems Of Gender Roles
 
+- **Label:** `Part`
+
 - **Required part:** Analyze the benefits, advantages, and disadvantages of **gender roles**.
 
-- **Explicit signal:** stated as **"in your essay"** and connected to analyzing the benefits, advantages, and disadvantages of gender roles.
+- **Why marked:** stated as **"in your essay"** and connected to analyzing the benefits, advantages, and disadvantages of gender roles.
 
 - Include:
 
@@ -192,9 +214,11 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 #### Strategies To End Gender-Based Violence
 
+- **Label:** `Part`
+
 - **Required part:** Propose strategies to end **gender-based violence** and identify the barriers that make it difficult to end.
 
-- **Explicit signal:** stated as **"one part in your essay"** and connected to thinking of strategies to end gender-based violence.
+- **Why marked:** stated as **"one part in your essay"** and connected to thinking of strategies to end gender-based violence.
 
 - Include:
 
@@ -206,13 +230,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 ## Lecture 13 - 2026-06-30
 
-### Confirmed Essay Choices
+### Essay Items
 
 #### Witchcraft, Fear, And Demonization
 
+- **Label:** `Choice`
+
 - **Question / topic:** For the **witchcraft question**, explain why witches were feared and demonized, starting with Christian condemnation.
 
-- **Explicit signal:** stated as material to **"include in your essay if you choose the witchcraft question."**
+- **Why marked:** stated as material to **"include in your essay if you choose the witchcraft question."**
 
 - Include:
 
@@ -226,9 +252,11 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 #### Witchcraft Case Study And Intersectionality
 
+- **Label:** `Choice`
+
 - **Question / topic:** Analyze a witchcraft accusation case study using **intersectionality** and identity factors.
 
-- **Explicit signal:** stated as **"in exam"** and **"I will give you case study like this"** with a request to analyze it.
+- **Why marked:** stated as **"in exam"** and **"I will give you case study like this"** with a request to analyze it.
 
 - Include:
 
@@ -242,13 +270,15 @@ Each item includes an **Explicit signal** line to show why it is included.
 
 ## Lecture 14 - 2026-07-02
 
-### Confirmed Required Essay Parts
+### Essay Parts
 
 #### Radical And Liberal Perspectives On Witchcraft
 
+- **Label:** `Part`
+
 - **Required part:** Explain how **radical** and **liberal** perspectives study witchcraft.
 
-- **Explicit signal:** stated as **"there will be one part that I ask"** about how radical and liberal perspectives study witchcraft.
+- **Why marked:** stated as **"there will be one part that I ask"** about how radical and liberal perspectives study witchcraft.
 
 - Include:
 
