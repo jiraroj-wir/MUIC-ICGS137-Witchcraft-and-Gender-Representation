@@ -20,7 +20,7 @@
 /midterm/
 /final/
 /prompts/
-/assignment_1.*
+/[Aa]ssignment*
 
 # MkDocs build output
 /site/
